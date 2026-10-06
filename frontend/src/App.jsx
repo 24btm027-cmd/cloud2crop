@@ -2,7 +2,12 @@ import { useState, useEffect } from 'react';
 import { ComposedChart, Bar, Line, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid } from 'recharts';
 import { LANGS, T } from './i18n';
 
-const api = (p, o) => fetch('/api' + p, o).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); });
+const API_URL = 'https://cloud2crop.onrender.com';
+
+const api = (p, o) => fetch(API_URL + '/api' + p, o).then(r => {
+  if (!r.ok) throw new Error(r.status);
+  return r.json();
+});
 const post = (p, body) => api(p, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
 const icon = c => (/heavy/i.test(c) ? '⛈️' : /rain/i.test(c) ? '🌧️' : /cloud/i.test(c) ? '⛅' : '☀️');
 const LEVEL = { good: ['✅', 'success'], warning: ['⚠️', 'warning'], danger: ['🚨', 'danger'] };
