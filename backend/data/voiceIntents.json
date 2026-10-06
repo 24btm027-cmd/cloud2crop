@@ -1,0 +1,47 @@
+[
+  {
+    "phrases": [
+      "aaj ka mausam",
+      "weather today",
+      "આજનું હવામાન",
+      "मौसम कैसा है"
+    ],
+    "intent": "CURRENT_WEATHER"
+  },
+  {
+    "phrases": [
+      "kal baarish hogi",
+      "will it rain tomorrow",
+      "કાલે વરસાદ થશે",
+      "बारिश होगी क्या"
+    ],
+    "intent": "RAIN_FORECAST"
+  },
+  {
+    "phrases": [
+      "kaun si fasal boun",
+      "which crop should i sow",
+      "કયો પાક વાવવો",
+      "फसल सुझाव"
+    ],
+    "intent": "CROP_RECOMMENDATION"
+  },
+  {
+    "phrases": [
+      "dawai chidkav",
+      "can i spray today",
+      "છંટકાવ કરી શકાય",
+      "छिड़काव करें"
+    ],
+    "intent": "SPRAY_ADVICE"
+  },
+  {
+    "phrases": [
+      "bhav kya hai",
+      "market price",
+      "ભાવ શું છે",
+      "मंडी भाव"
+    ],
+    "intent": "MARKET_PRICE"
+  }
+]

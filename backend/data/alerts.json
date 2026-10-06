@@ -1,0 +1,67 @@
+[
+  {
+    "city": "Ahmedabad",
+    "date": "2026-10-05",
+    "ruleId": "R2",
+    "level": "danger",
+    "title": "Heavy rain",
+    "advice": "Open drainage channels, protect harvested produce, and avoid field work.",
+    "adviceHi": "भारी बारिश। खेत से पानी निकासी की व्यवस्था करें और कटी फसल ढकें।",
+    "adviceGu": "ભારે વરસાદ. ખેતરમાંથી પાણીના નિકાલની વ્યવસ્થા કરો અને પાક ઢાંકો.",
+    "id": "al_1",
+    "type": "Heavy rain",
+    "sent": false
+  },
+  {
+    "city": "Bhavnagar",
+    "date": "2026-10-07",
+    "ruleId": "R2",
+    "level": "danger",
+    "title": "Heavy rain",
+    "advice": "Open drainage channels, protect harvested produce, and avoid field work.",
+    "adviceHi": "भारी बारिश। खेत से पानी निकासी की व्यवस्था करें और कटी फसल ढकें।",
+    "adviceGu": "ભારે વરસાદ. ખેતરમાંથી પાણીના નિકાલની વ્યવસ્થા કરો અને પાક ઢાંકો.",
+    "id": "al_2",
+    "type": "Heavy rain",
+    "sent": false
+  },
+  {
+    "city": "Junagadh",
+    "date": "2026-10-04",
+    "ruleId": "R2",
+    "level": "danger",
+    "title": "Heavy rain",
+    "advice": "Open drainage channels, protect harvested produce, and avoid field work.",
+    "adviceHi": "भारी बारिश। खेत से पानी निकासी की व्यवस्था करें और कटी फसल ढकें।",
+    "adviceGu": "ભારે વરસાદ. ખેતરમાંથી પાણીના નિકાલની વ્યવસ્થા કરો અને પાક ઢાંકો.",
+    "id": "al_3",
+    "type": "Heavy rain",
+    "sent": false
+  },
+  {
+    "city": "Junagadh",
+    "date": "2026-10-09",
+    "ruleId": "R2",
+    "level": "danger",
+    "title": "Heavy rain",
+    "advice": "Open drainage channels, protect harvested produce, and avoid field work.",
+    "adviceHi": "भारी बारिश। खेत से पानी निकासी की व्यवस्था करें और कटी फसल ढकें।",
+    "adviceGu": "ભારે વરસાદ. ખેતરમાંથી પાણીના નિકાલની વ્યવસ્થા કરો અને પાક ઢાંકો.",
+    "id": "al_4",
+    "type": "Heavy rain",
+    "sent": false
+  },
+  {
+    "city": "Anand",
+    "date": "2026-10-03",
+    "ruleId": "R2",
+    "level": "danger",
+    "title": "Heavy rain",
+    "advice": "Open drainage channels, protect harvested produce, and avoid field work.",
+    "adviceHi": "भारी बारिश। खेत से पानी निकासी की व्यवस्था करें और कटी फसल ढकें।",
+    "adviceGu": "ભારે વરસાદ. ખેતરમાંથી પાણીના નિકાલની વ્યવસ્થા કરો અને પાક ઢાંકો.",
+    "id": "al_5",
+    "type": "Heavy rain",
+    "sent": false
+  }
+]

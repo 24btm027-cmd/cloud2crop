@@ -1,0 +1,458 @@
+[
+  {
+    "id": "cotton",
+    "name": "Cotton",
+    "nameHi": "कपास",
+    "nameGu": "કપાસ",
+    "season": "Kharif",
+    "temp": [
+      21,
+      35
+    ],
+    "rain": [
+      60,
+      120
+    ],
+    "humidity": [
+      50,
+      80
+    ],
+    "ph": [
+      5.8,
+      8
+    ],
+    "N": [
+      80,
+      140
+    ],
+    "P": [
+      30,
+      60
+    ],
+    "K": [
+      30,
+      60
+    ],
+    "waterNeed": "Medium",
+    "durationDays": 180,
+    "icon": "🌿"
+  },
+  {
+    "id": "groundnut",
+    "name": "Groundnut",
+    "nameHi": "मूंगफली",
+    "nameGu": "મગફળી",
+    "season": "Kharif",
+    "temp": [
+      25,
+      32
+    ],
+    "rain": [
+      50,
+      100
+    ],
+    "humidity": [
+      50,
+      75
+    ],
+    "ph": [
+      6,
+      7
+    ],
+    "N": [
+      20,
+      40
+    ],
+    "P": [
+      30,
+      60
+    ],
+    "K": [
+      30,
+      60
+    ],
+    "waterNeed": "Low",
+    "durationDays": 120,
+    "icon": "🥜"
+  },
+  {
+    "id": "castor",
+    "name": "Castor",
+    "nameHi": "अरंडी",
+    "nameGu": "એરંડા",
+    "season": "Kharif",
+    "temp": [
+      20,
+      30
+    ],
+    "rain": [
+      50,
+      75
+    ],
+    "humidity": [
+      45,
+      70
+    ],
+    "ph": [
+      5,
+      6.5
+    ],
+    "N": [
+      40,
+      80
+    ],
+    "P": [
+      20,
+      40
+    ],
+    "K": [
+      20,
+      40
+    ],
+    "waterNeed": "Low",
+    "durationDays": 150,
+    "icon": "🌱"
+  },
+  {
+    "id": "bajra",
+    "name": "Pearl Millet (Bajra)",
+    "nameHi": "बाजरा",
+    "nameGu": "બાજરી",
+    "season": "Kharif",
+    "temp": [
+      25,
+      35
+    ],
+    "rain": [
+      40,
+      80
+    ],
+    "humidity": [
+      40,
+      70
+    ],
+    "ph": [
+      6,
+      8
+    ],
+    "N": [
+      60,
+      100
+    ],
+    "P": [
+      20,
+      40
+    ],
+    "K": [
+      20,
+      40
+    ],
+    "waterNeed": "Low",
+    "durationDays": 85,
+    "icon": "🌾"
+  },
+  {
+    "id": "rice",
+    "name": "Rice",
+    "nameHi": "चावल",
+    "nameGu": "ડાંગર",
+    "season": "Kharif",
+    "temp": [
+      22,
+      32
+    ],
+    "rain": [
+      150,
+      300
+    ],
+    "humidity": [
+      75,
+      90
+    ],
+    "ph": [
+      5.5,
+      7
+    ],
+    "N": [
+      80,
+      120
+    ],
+    "P": [
+      35,
+      60
+    ],
+    "K": [
+      35,
+      50
+    ],
+    "waterNeed": "High",
+    "durationDays": 130,
+    "icon": "🍚"
+  },
+  {
+    "id": "maize",
+    "name": "Maize",
+    "nameHi": "मक्का",
+    "nameGu": "મકાઈ",
+    "season": "Kharif",
+    "temp": [
+      21,
+      30
+    ],
+    "rain": [
+      60,
+      110
+    ],
+    "humidity": [
+      55,
+      80
+    ],
+    "ph": [
+      5.8,
+      7.5
+    ],
+    "N": [
+      70,
+      110
+    ],
+    "P": [
+      40,
+      60
+    ],
+    "K": [
+      20,
+      50
+    ],
+    "waterNeed": "Medium",
+    "durationDays": 100,
+    "icon": "🌽"
+  },
+  {
+    "id": "wheat",
+    "name": "Wheat",
+    "nameHi": "गेहूं",
+    "nameGu": "ઘઉં",
+    "season": "Rabi",
+    "temp": [
+      12,
+      25
+    ],
+    "rain": [
+      30,
+      100
+    ],
+    "humidity": [
+      40,
+      65
+    ],
+    "ph": [
+      6,
+      7.5
+    ],
+    "N": [
+      80,
+      120
+    ],
+    "P": [
+      40,
+      60
+    ],
+    "K": [
+      30,
+      50
+    ],
+    "waterNeed": "Medium",
+    "durationDays": 120,
+    "icon": "🌾"
+  },
+  {
+    "id": "cumin",
+    "name": "Cumin (Jeera)",
+    "nameHi": "जीरा",
+    "nameGu": "જીરું",
+    "season": "Rabi",
+    "temp": [
+      15,
+      25
+    ],
+    "rain": [
+      20,
+      40
+    ],
+    "humidity": [
+      30,
+      55
+    ],
+    "ph": [
+      6.5,
+      8
+    ],
+    "N": [
+      30,
+      50
+    ],
+    "P": [
+      20,
+      40
+    ],
+    "K": [
+      20,
+      40
+    ],
+    "waterNeed": "Low",
+    "durationDays": 110,
+    "icon": "🌿"
+  },
+  {
+    "id": "mustard",
+    "name": "Mustard",
+    "nameHi": "सरसों",
+    "nameGu": "રાયડો",
+    "season": "Rabi",
+    "temp": [
+      10,
+      25
+    ],
+    "rain": [
+      25,
+      50
+    ],
+    "humidity": [
+      40,
+      65
+    ],
+    "ph": [
+      6,
+      7.5
+    ],
+    "N": [
+      60,
+      100
+    ],
+    "P": [
+      30,
+      50
+    ],
+    "K": [
+      20,
+      40
+    ],
+    "waterNeed": "Low",
+    "durationDays": 120,
+    "icon": "🌼"
+  },
+  {
+    "id": "chickpea",
+    "name": "Chickpea (Chana)",
+    "nameHi": "चना",
+    "nameGu": "ચણા",
+    "season": "Rabi",
+    "temp": [
+      15,
+      28
+    ],
+    "rain": [
+      30,
+      70
+    ],
+    "humidity": [
+      30,
+      60
+    ],
+    "ph": [
+      6,
+      8
+    ],
+    "N": [
+      15,
+      30
+    ],
+    "P": [
+      40,
+      70
+    ],
+    "K": [
+      20,
+      40
+    ],
+    "waterNeed": "Low",
+    "durationDays": 110,
+    "icon": "🫘"
+  },
+  {
+    "id": "sugarcane",
+    "name": "Sugarcane",
+    "nameHi": "गन्ना",
+    "nameGu": "શેરડી",
+    "season": "Annual",
+    "temp": [
+      20,
+      35
+    ],
+    "rain": [
+      110,
+      250
+    ],
+    "humidity": [
+      60,
+      85
+    ],
+    "ph": [
+      6,
+      8
+    ],
+    "N": [
+      120,
+      200
+    ],
+    "P": [
+      40,
+      80
+    ],
+    "K": [
+      60,
+      100
+    ],
+    "waterNeed": "High",
+    "durationDays": 365,
+    "icon": "🎋"
+  },
+  {
+    "id": "watermelon",
+    "name": "Watermelon",
+    "nameHi": "तरबूज",
+    "nameGu": "તરબૂચ",
+    "season": "Zaid",
+    "temp": [
+      24,
+      38
+    ],
+    "rain": [
+      40,
+      60
+    ],
+    "humidity": [
+      40,
+      65
+    ],
+    "ph": [
+      6,
+      7
+    ],
+    "N": [
+      60,
+      100
+    ],
+    "P": [
+      30,
+      50
+    ],
+    "K": [
+      50,
+      80
+    ],
+    "waterNeed": "Medium",
+    "durationDays": 90,
+    "icon": "🍉"
+  }
+]

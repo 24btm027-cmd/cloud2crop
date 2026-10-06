@@ -1,0 +1,1738 @@
+{
+  "Ahmedabad": {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "updatedAt": "2026-10-03T00:00:00.000Z",
+    "current": {
+      "temperature": 32.7,
+      "feelsLike": 34,
+      "humidity": 68,
+      "windKmh": 23.6,
+      "pressureHpa": 1011,
+      "uvIndex": 4,
+      "condition": "Moderate rain",
+      "sunrise": "06:42",
+      "sunset": "18:25"
+    },
+    "hourly": [
+      {
+        "hour": "00:00",
+        "temperature": 23.1,
+        "rainProbability": 12
+      },
+      {
+        "hour": "01:00",
+        "temperature": 23.1,
+        "rainProbability": 34
+      },
+      {
+        "hour": "02:00",
+        "temperature": 23.1,
+        "rainProbability": 63
+      },
+      {
+        "hour": "03:00",
+        "temperature": 23.1,
+        "rainProbability": 12
+      },
+      {
+        "hour": "04:00",
+        "temperature": 23.1,
+        "rainProbability": 43
+      },
+      {
+        "hour": "05:00",
+        "temperature": 23.1,
+        "rainProbability": 25
+      },
+      {
+        "hour": "06:00",
+        "temperature": 23.1,
+        "rainProbability": 28
+      },
+      {
+        "hour": "07:00",
+        "temperature": 25.6,
+        "rainProbability": 47
+      },
+      {
+        "hour": "08:00",
+        "temperature": 27.9,
+        "rainProbability": 11
+      },
+      {
+        "hour": "09:00",
+        "temperature": 29.9,
+        "rainProbability": 51
+      },
+      {
+        "hour": "10:00",
+        "temperature": 31.4,
+        "rainProbability": 51
+      },
+      {
+        "hour": "11:00",
+        "temperature": 32.4,
+        "rainProbability": 6
+      },
+      {
+        "hour": "12:00",
+        "temperature": 32.7,
+        "rainProbability": 2
+      },
+      {
+        "hour": "13:00",
+        "temperature": 32.4,
+        "rainProbability": 8
+      },
+      {
+        "hour": "14:00",
+        "temperature": 31.4,
+        "rainProbability": 40
+      },
+      {
+        "hour": "15:00",
+        "temperature": 29.9,
+        "rainProbability": 24
+      },
+      {
+        "hour": "16:00",
+        "temperature": 27.9,
+        "rainProbability": 16
+      },
+      {
+        "hour": "17:00",
+        "temperature": 25.6,
+        "rainProbability": 32
+      },
+      {
+        "hour": "18:00",
+        "temperature": 23.1,
+        "rainProbability": 33
+      },
+      {
+        "hour": "19:00",
+        "temperature": 20.6,
+        "rainProbability": 7
+      },
+      {
+        "hour": "20:00",
+        "temperature": 18.3,
+        "rainProbability": 62
+      },
+      {
+        "hour": "21:00",
+        "temperature": 16.3,
+        "rainProbability": 22
+      },
+      {
+        "hour": "22:00",
+        "temperature": 14.8,
+        "rainProbability": 48
+      },
+      {
+        "hour": "23:00",
+        "temperature": 13.8,
+        "rainProbability": 17
+      }
+    ],
+    "forecast": [
+      {
+        "date": "2026-10-03",
+        "tempMax": 32.7,
+        "tempMin": 23.1,
+        "humidity": 68,
+        "rainfallMm": 16.2,
+        "rainProbability": 63,
+        "windKmh": 23.6,
+        "uvIndex": 4,
+        "condition": "Moderate rain"
+      },
+      {
+        "date": "2026-10-04",
+        "tempMax": 33.3,
+        "tempMin": 22.4,
+        "humidity": 71,
+        "rainfallMm": 0,
+        "rainProbability": 23,
+        "windKmh": 14.1,
+        "uvIndex": 6.7,
+        "condition": "Sunny"
+      },
+      {
+        "date": "2026-10-05",
+        "tempMax": 30.6,
+        "tempMin": 22.4,
+        "humidity": 79,
+        "rainfallMm": 28.5,
+        "rainProbability": 76,
+        "windKmh": 21.2,
+        "uvIndex": 4.5,
+        "condition": "Heavy rain"
+      },
+      {
+        "date": "2026-10-06",
+        "tempMax": 29.7,
+        "tempMin": 25.5,
+        "humidity": 70,
+        "rainfallMm": 16.6,
+        "rainProbability": 74,
+        "windKmh": 14.1,
+        "uvIndex": 3.5,
+        "condition": "Moderate rain"
+      },
+      {
+        "date": "2026-10-07",
+        "tempMax": 37,
+        "tempMin": 25.7,
+        "humidity": 78,
+        "rainfallMm": 1.7,
+        "rainProbability": 78,
+        "windKmh": 19.8,
+        "uvIndex": 7.9,
+        "condition": "Light rain"
+      },
+      {
+        "date": "2026-10-08",
+        "tempMax": 33.9,
+        "tempMin": 23.1,
+        "humidity": 59,
+        "rainfallMm": 0,
+        "rainProbability": 16,
+        "windKmh": 12.5,
+        "uvIndex": 6.2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "date": "2026-10-09",
+        "tempMax": 30.6,
+        "tempMin": 22.8,
+        "humidity": 60,
+        "rainfallMm": 14.2,
+        "rainProbability": 94,
+        "windKmh": 15.8,
+        "uvIndex": 3.2,
+        "condition": "Moderate rain"
+      }
+    ]
+  },
+  "Surat": {
+    "city": "Surat",
+    "state": "Gujarat",
+    "updatedAt": "2026-10-03T00:00:00.000Z",
+    "current": {
+      "temperature": 32.7,
+      "feelsLike": 37.1,
+      "humidity": 75,
+      "windKmh": 14.4,
+      "pressureHpa": 1012,
+      "uvIndex": 8.9,
+      "condition": "Sunny",
+      "sunrise": "06:42",
+      "sunset": "18:25"
+    },
+    "hourly": [
+      {
+        "hour": "00:00",
+        "temperature": 22.9,
+        "rainProbability": 3
+      },
+      {
+        "hour": "01:00",
+        "temperature": 22.9,
+        "rainProbability": 8
+      },
+      {
+        "hour": "02:00",
+        "temperature": 22.9,
+        "rainProbability": 5
+      },
+      {
+        "hour": "03:00",
+        "temperature": 22.9,
+        "rainProbability": 7
+      },
+      {
+        "hour": "04:00",
+        "temperature": 22.9,
+        "rainProbability": 4
+      },
+      {
+        "hour": "05:00",
+        "temperature": 22.9,
+        "rainProbability": 22
+      },
+      {
+        "hour": "06:00",
+        "temperature": 22.9,
+        "rainProbability": 17
+      },
+      {
+        "hour": "07:00",
+        "temperature": 26.2,
+        "rainProbability": 14
+      },
+      {
+        "hour": "08:00",
+        "temperature": 29.3,
+        "rainProbability": 12
+      },
+      {
+        "hour": "09:00",
+        "temperature": 31.9,
+        "rainProbability": 11
+      },
+      {
+        "hour": "10:00",
+        "temperature": 33.9,
+        "rainProbability": 8
+      },
+      {
+        "hour": "11:00",
+        "temperature": 35.2,
+        "rainProbability": 7
+      },
+      {
+        "hour": "12:00",
+        "temperature": 35.6,
+        "rainProbability": 9
+      },
+      {
+        "hour": "13:00",
+        "temperature": 35.2,
+        "rainProbability": 9
+      },
+      {
+        "hour": "14:00",
+        "temperature": 33.9,
+        "rainProbability": 10
+      },
+      {
+        "hour": "15:00",
+        "temperature": 31.9,
+        "rainProbability": 7
+      },
+      {
+        "hour": "16:00",
+        "temperature": 29.3,
+        "rainProbability": 8
+      },
+      {
+        "hour": "17:00",
+        "temperature": 26.2,
+        "rainProbability": 2
+      },
+      {
+        "hour": "18:00",
+        "temperature": 22.9,
+        "rainProbability": 17
+      },
+      {
+        "hour": "19:00",
+        "temperature": 19.6,
+        "rainProbability": 9
+      },
+      {
+        "hour": "20:00",
+        "temperature": 16.5,
+        "rainProbability": 0
+      },
+      {
+        "hour": "21:00",
+        "temperature": 13.9,
+        "rainProbability": 8
+      },
+      {
+        "hour": "22:00",
+        "temperature": 11.9,
+        "rainProbability": 12
+      },
+      {
+        "hour": "23:00",
+        "temperature": 10.6,
+        "rainProbability": 4
+      }
+    ],
+    "forecast": [
+      {
+        "date": "2026-10-03",
+        "tempMax": 35.6,
+        "tempMin": 22.9,
+        "humidity": 75,
+        "rainfallMm": 0,
+        "rainProbability": 23,
+        "windKmh": 14.4,
+        "uvIndex": 8.9,
+        "condition": "Sunny"
+      },
+      {
+        "date": "2026-10-04",
+        "tempMax": 35.3,
+        "tempMin": 24,
+        "humidity": 78,
+        "rainfallMm": 0,
+        "rainProbability": 21,
+        "windKmh": 15.6,
+        "uvIndex": 6.9,
+        "condition": "Partly cloudy"
+      },
+      {
+        "date": "2026-10-05",
+        "tempMax": 30.8,
+        "tempMin": 23.6,
+        "humidity": 74,
+        "rainfallMm": 14,
+        "rainProbability": 75,
+        "windKmh": 14.2,
+        "uvIndex": 3,
+        "condition": "Moderate rain"
+      },
+      {
+        "date": "2026-10-06",
+        "tempMax": 32.9,
+        "tempMin": 22.8,
+        "humidity": 88,
+        "rainfallMm": 0,
+        "rainProbability": 3,
+        "windKmh": 13.7,
+        "uvIndex": 6.9,
+        "condition": "Partly cloudy"
+      },
+      {
+        "date": "2026-10-07",
+        "tempMax": 31.6,
+        "tempMin": 24.7,
+        "humidity": 72,
+        "rainfallMm": 11.6,
+        "rainProbability": 74,
+        "windKmh": 20.8,
+        "uvIndex": 4.1,
+        "condition": "Moderate rain"
+      },
+      {
+        "date": "2026-10-08",
+        "tempMax": 28.6,
+        "tempMin": 24.2,
+        "humidity": 82,
+        "rainfallMm": 12.6,
+        "rainProbability": 58,
+        "windKmh": 16.8,
+        "uvIndex": 3.7,
+        "condition": "Moderate rain"
+      },
+      {
+        "date": "2026-10-09",
+        "tempMax": 29.6,
+        "tempMin": 23.5,
+        "humidity": 77,
+        "rainfallMm": 12.2,
+        "rainProbability": 66,
+        "windKmh": 23.8,
+        "uvIndex": 3.4,
+        "condition": "Moderate rain"
+      }
+    ]
+  },
+  "Rajkot": {
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "updatedAt": "2026-10-03T00:00:00.000Z",
+    "current": {
+      "temperature": 30.2,
+      "feelsLike": 38,
+      "humidity": 68,
+      "windKmh": 15.2,
+      "pressureHpa": 1011,
+      "uvIndex": 6.6,
+      "condition": "Clear",
+      "sunrise": "06:42",
+      "sunset": "18:25"
+    },
+    "hourly": [
+      {
+        "hour": "00:00",
+        "temperature": 25.9,
+        "rainProbability": 6
+      },
+      {
+        "hour": "01:00",
+        "temperature": 25.9,
+        "rainProbability": 3
+      },
+      {
+        "hour": "02:00",
+        "temperature": 25.9,
+        "rainProbability": 0
+      },
+      {
+        "hour": "03:00",
+        "temperature": 25.9,
+        "rainProbability": 4
+      },
+      {
+        "hour": "04:00",
+        "temperature": 25.9,
+        "rainProbability": 2
+      },
+      {
+        "hour": "05:00",
+        "temperature": 25.9,
+        "rainProbability": 3
+      },
+      {
+        "hour": "06:00",
+        "temperature": 25.9,
+        "rainProbability": 2
+      },
+      {
+        "hour": "07:00",
+        "temperature": 28.7,
+        "rainProbability": 2
+      },
+      {
+        "hour": "08:00",
+        "temperature": 31.3,
+        "rainProbability": 5
+      },
+      {
+        "hour": "09:00",
+        "temperature": 33.5,
+        "rainProbability": 5
+      },
+      {
+        "hour": "10:00",
+        "temperature": 35.2,
+        "rainProbability": 5
+      },
+      {
+        "hour": "11:00",
+        "temperature": 36.2,
+        "rainProbability": 3
+      },
+      {
+        "hour": "12:00",
+        "temperature": 36.6,
+        "rainProbability": 0
+      },
+      {
+        "hour": "13:00",
+        "temperature": 36.2,
+        "rainProbability": 4
+      },
+      {
+        "hour": "14:00",
+        "temperature": 35.2,
+        "rainProbability": 2
+      },
+      {
+        "hour": "15:00",
+        "temperature": 33.5,
+        "rainProbability": 4
+      },
+      {
+        "hour": "16:00",
+        "temperature": 31.3,
+        "rainProbability": 0
+      },
+      {
+        "hour": "17:00",
+        "temperature": 28.7,
+        "rainProbability": 3
+      },
+      {
+        "hour": "18:00",
+        "temperature": 25.9,
+        "rainProbability": 4
+      },
+      {
+        "hour": "19:00",
+        "temperature": 23.1,
+        "rainProbability": 5
+      },
+      {
+        "hour": "20:00",
+        "temperature": 20.5,
+        "rainProbability": 2
+      },
+      {
+        "hour": "21:00",
+        "temperature": 18.3,
+        "rainProbability": 5
+      },
+      {
+        "hour": "22:00",
+        "temperature": 16.6,
+        "rainProbability": 6
+      },
+      {
+        "hour": "23:00",
+        "temperature": 15.6,
+        "rainProbability": 3
+      }
+    ],
+    "forecast": [
+      {
+        "date": "2026-10-03",
+        "tempMax": 36.6,
+        "tempMin": 25.9,
+        "humidity": 68,
+        "rainfallMm": 0,
+        "rainProbability": 6,
+        "windKmh": 15.2,
+        "uvIndex": 6.6,
+        "condition": "Clear"
+      },
+      {
+        "date": "2026-10-04",
+        "tempMax": 36.9,
+        "tempMin": 23.4,
+        "humidity": 63,
+        "rainfallMm": 0,
+        "rainProbability": 17,
+        "windKmh": 22.1,
+        "uvIndex": 6.4,
+        "condition": "Clear"
+      },
+      {
+        "date": "2026-10-05",
+        "tempMax": 36.9,
+        "tempMin": 22.5,
+        "humidity": 57,
+        "rainfallMm": 0,
+        "rainProbability": 1,
+        "windKmh": 15.8,
+        "uvIndex": 6.5,
+        "condition": "Partly cloudy"
+      },
+      {
+        "date": "2026-10-06",
+        "tempMax": 30.3,
+        "tempMin": 22.9,
+        "humidity": 64,
+        "rainfallMm": 24,
+        "rainProbability": 85,
+        "windKmh": 13.5,
+        "uvIndex": 4.9,
+        "condition": "Heavy rain"
+      },
+      {
+        "date": "2026-10-07",
+        "tempMax": 34.3,
+        "tempMin": 24.5,
+        "humidity": 71,
+        "rainfallMm": 0,
+        "rainProbability": 12,
+        "windKmh": 14.3,
+        "uvIndex": 6.3,
+        "condition": "Clear"
+      },
+      {
+        "date": "2026-10-08",
+        "tempMax": 32,
+        "tempMin": 23.4,
+        "humidity": 65,
+        "rainfallMm": 17.6,
+        "rainProbability": 64,
+        "windKmh": 20.7,
+        "uvIndex": 4,
+        "condition": "Moderate rain"
+      },
+      {
+        "date": "2026-10-09",
+        "tempMax": 34.5,
+        "tempMin": 22.2,
+        "humidity": 63,
+        "rainfallMm": 0,
+        "rainProbability": 17,
+        "windKmh": 8.7,
+        "uvIndex": 8.4,
+        "condition": "Sunny"
+      }
+    ]
+  },
+  "Vadodara": {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "updatedAt": "2026-10-03T00:00:00.000Z",
+    "current": {
+      "temperature": 29.9,
+      "feelsLike": 36.8,
+      "humidity": 55,
+      "windKmh": 15.9,
+      "pressureHpa": 1009,
+      "uvIndex": 7.2,
+      "condition": "Partly cloudy",
+      "sunrise": "06:42",
+      "sunset": "18:25"
+    },
+    "hourly": [
+      {
+        "hour": "00:00",
+        "temperature": 22.1,
+        "rainProbability": 5
+      },
+      {
+        "hour": "01:00",
+        "temperature": 22.1,
+        "rainProbability": 5
+      },
+      {
+        "hour": "02:00",
+        "temperature": 22.1,
+        "rainProbability": 11
+      },
+      {
+        "hour": "03:00",
+        "temperature": 22.1,
+        "rainProbability": 0
+      },
+      {
+        "hour": "04:00",
+        "temperature": 22.1,
+        "rainProbability": 1
+      },
+      {
+        "hour": "05:00",
+        "temperature": 22.1,
+        "rainProbability": 3
+      },
+      {
+        "hour": "06:00",
+        "temperature": 22.1,
+        "rainProbability": 8
+      },
+      {
+        "hour": "07:00",
+        "temperature": 25.8,
+        "rainProbability": 10
+      },
+      {
+        "hour": "08:00",
+        "temperature": 29.3,
+        "rainProbability": 6
+      },
+      {
+        "hour": "09:00",
+        "temperature": 32.2,
+        "rainProbability": 0
+      },
+      {
+        "hour": "10:00",
+        "temperature": 34.5,
+        "rainProbability": 9
+      },
+      {
+        "hour": "11:00",
+        "temperature": 35.9,
+        "rainProbability": 5
+      },
+      {
+        "hour": "12:00",
+        "temperature": 36.4,
+        "rainProbability": 2
+      },
+      {
+        "hour": "13:00",
+        "temperature": 35.9,
+        "rainProbability": 2
+      },
+      {
+        "hour": "14:00",
+        "temperature": 34.5,
+        "rainProbability": 5
+      },
+      {
+        "hour": "15:00",
+        "temperature": 32.2,
+        "rainProbability": 0
+      },
+      {
+        "hour": "16:00",
+        "temperature": 29.3,
+        "rainProbability": 3
+      },
+      {
+        "hour": "17:00",
+        "temperature": 25.8,
+        "rainProbability": 8
+      },
+      {
+        "hour": "18:00",
+        "temperature": 22.1,
+        "rainProbability": 2
+      },
+      {
+        "hour": "19:00",
+        "temperature": 18.4,
+        "rainProbability": 1
+      },
+      {
+        "hour": "20:00",
+        "temperature": 15,
+        "rainProbability": 8
+      },
+      {
+        "hour": "21:00",
+        "temperature": 12,
+        "rainProbability": 9
+      },
+      {
+        "hour": "22:00",
+        "temperature": 9.7,
+        "rainProbability": 1
+      },
+      {
+        "hour": "23:00",
+        "temperature": 8.3,
+        "rainProbability": 10
+      }
+    ],
+    "forecast": [
+      {
+        "date": "2026-10-03",
+        "tempMax": 36.4,
+        "tempMin": 22.1,
+        "humidity": 55,
+        "rainfallMm": 0,
+        "rainProbability": 12,
+        "windKmh": 15.9,
+        "uvIndex": 7.2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "date": "2026-10-04",
+        "tempMax": 34.9,
+        "tempMin": 24.5,
+        "humidity": 57,
+        "rainfallMm": 0,
+        "rainProbability": 19,
+        "windKmh": 20.5,
+        "uvIndex": 8.9,
+        "condition": "Partly cloudy"
+      },
+      {
+        "date": "2026-10-05",
+        "tempMax": 33.9,
+        "tempMin": 25.9,
+        "humidity": 73,
+        "rainfallMm": 13.8,
+        "rainProbability": 68,
+        "windKmh": 23.8,
+        "uvIndex": 4.6,
+        "condition": "Moderate rain"
+      },
+      {
+        "date": "2026-10-06",
+        "tempMax": 33.5,
+        "tempMin": 22.3,
+        "humidity": 78,
+        "rainfallMm": 0,
+        "rainProbability": 16,
+        "windKmh": 22.6,
+        "uvIndex": 8.2,
+        "condition": "Clear"
+      },
+      {
+        "date": "2026-10-07",
+        "tempMax": 29.3,
+        "tempMin": 23.2,
+        "humidity": 69,
+        "rainfallMm": 14.8,
+        "rainProbability": 72,
+        "windKmh": 19.2,
+        "uvIndex": 4.4,
+        "condition": "Moderate rain"
+      },
+      {
+        "date": "2026-10-08",
+        "tempMax": 33,
+        "tempMin": 24.5,
+        "humidity": 75,
+        "rainfallMm": 13.4,
+        "rainProbability": 87,
+        "windKmh": 20.6,
+        "uvIndex": 3.5,
+        "condition": "Moderate rain"
+      },
+      {
+        "date": "2026-10-09",
+        "tempMax": 30.2,
+        "tempMin": 23.5,
+        "humidity": 68,
+        "rainfallMm": 20.1,
+        "rainProbability": 80,
+        "windKmh": 8.2,
+        "uvIndex": 4.2,
+        "condition": "Heavy rain"
+      }
+    ]
+  },
+  "Bhavnagar": {
+    "city": "Bhavnagar",
+    "state": "Gujarat",
+    "updatedAt": "2026-10-03T00:00:00.000Z",
+    "current": {
+      "temperature": 30,
+      "feelsLike": 36,
+      "humidity": 82,
+      "windKmh": 19.1,
+      "pressureHpa": 1013,
+      "uvIndex": 6.9,
+      "condition": "Partly cloudy",
+      "sunrise": "06:42",
+      "sunset": "18:25"
+    },
+    "hourly": [
+      {
+        "hour": "00:00",
+        "temperature": 24.1,
+        "rainProbability": 6
+      },
+      {
+        "hour": "01:00",
+        "temperature": 24.1,
+        "rainProbability": 3
+      },
+      {
+        "hour": "02:00",
+        "temperature": 24.1,
+        "rainProbability": 2
+      },
+      {
+        "hour": "03:00",
+        "temperature": 24.1,
+        "rainProbability": 2
+      },
+      {
+        "hour": "04:00",
+        "temperature": 24.1,
+        "rainProbability": 4
+      },
+      {
+        "hour": "05:00",
+        "temperature": 24.1,
+        "rainProbability": 5
+      },
+      {
+        "hour": "06:00",
+        "temperature": 24.1,
+        "rainProbability": 6
+      },
+      {
+        "hour": "07:00",
+        "temperature": 26.5,
+        "rainProbability": 6
+      },
+      {
+        "hour": "08:00",
+        "temperature": 28.8,
+        "rainProbability": 3
+      },
+      {
+        "hour": "09:00",
+        "temperature": 30.7,
+        "rainProbability": 0
+      },
+      {
+        "hour": "10:00",
+        "temperature": 32.2,
+        "rainProbability": 1
+      },
+      {
+        "hour": "11:00",
+        "temperature": 33.2,
+        "rainProbability": 2
+      },
+      {
+        "hour": "12:00",
+        "temperature": 33.5,
+        "rainProbability": 5
+      },
+      {
+        "hour": "13:00",
+        "temperature": 33.2,
+        "rainProbability": 6
+      },
+      {
+        "hour": "14:00",
+        "temperature": 32.2,
+        "rainProbability": 4
+      },
+      {
+        "hour": "15:00",
+        "temperature": 30.7,
+        "rainProbability": 5
+      },
+      {
+        "hour": "16:00",
+        "temperature": 28.8,
+        "rainProbability": 2
+      },
+      {
+        "hour": "17:00",
+        "temperature": 26.5,
+        "rainProbability": 4
+      },
+      {
+        "hour": "18:00",
+        "temperature": 24.1,
+        "rainProbability": 6
+      },
+      {
+        "hour": "19:00",
+        "temperature": 21.7,
+        "rainProbability": 0
+      },
+      {
+        "hour": "20:00",
+        "temperature": 19.4,
+        "rainProbability": 3
+      },
+      {
+        "hour": "21:00",
+        "temperature": 17.5,
+        "rainProbability": 3
+      },
+      {
+        "hour": "22:00",
+        "temperature": 16,
+        "rainProbability": 6
+      },
+      {
+        "hour": "23:00",
+        "temperature": 15,
+        "rainProbability": 4
+      }
+    ],
+    "forecast": [
+      {
+        "date": "2026-10-03",
+        "tempMax": 33.5,
+        "tempMin": 24.1,
+        "humidity": 82,
+        "rainfallMm": 0,
+        "rainProbability": 7,
+        "windKmh": 19.1,
+        "uvIndex": 6.9,
+        "condition": "Partly cloudy"
+      },
+      {
+        "date": "2026-10-04",
+        "tempMax": 32.1,
+        "tempMin": 22.6,
+        "humidity": 71,
+        "rainfallMm": 0,
+        "rainProbability": 15,
+        "windKmh": 10.9,
+        "uvIndex": 8,
+        "condition": "Partly cloudy"
+      },
+      {
+        "date": "2026-10-05",
+        "tempMax": 33.5,
+        "tempMin": 22.4,
+        "humidity": 75,
+        "rainfallMm": 0,
+        "rainProbability": 19,
+        "windKmh": 21.8,
+        "uvIndex": 7.3,
+        "condition": "Partly cloudy"
+      },
+      {
+        "date": "2026-10-06",
+        "tempMax": 31.7,
+        "tempMin": 22.8,
+        "humidity": 76,
+        "rainfallMm": 0,
+        "rainProbability": 24,
+        "windKmh": 20.9,
+        "uvIndex": 7.9,
+        "condition": "Partly cloudy"
+      },
+      {
+        "date": "2026-10-07",
+        "tempMax": 30.7,
+        "tempMin": 21.8,
+        "humidity": 83,
+        "rainfallMm": 28.2,
+        "rainProbability": 70,
+        "windKmh": 14,
+        "uvIndex": 3.3,
+        "condition": "Heavy rain"
+      },
+      {
+        "date": "2026-10-08",
+        "tempMax": 32.6,
+        "tempMin": 24,
+        "humidity": 82,
+        "rainfallMm": 10.2,
+        "rainProbability": 84,
+        "windKmh": 12.1,
+        "uvIndex": 3.9,
+        "condition": "Moderate rain"
+      },
+      {
+        "date": "2026-10-09",
+        "tempMax": 34.2,
+        "tempMin": 21.9,
+        "humidity": 75,
+        "rainfallMm": 0,
+        "rainProbability": 17,
+        "windKmh": 9.4,
+        "uvIndex": 6.5,
+        "condition": "Clear"
+      }
+    ]
+  },
+  "Junagadh": {
+    "city": "Junagadh",
+    "state": "Gujarat",
+    "updatedAt": "2026-10-03T00:00:00.000Z",
+    "current": {
+      "temperature": 31.7,
+      "feelsLike": 35.7,
+      "humidity": 76,
+      "windKmh": 8.3,
+      "pressureHpa": 1007,
+      "uvIndex": 3.1,
+      "condition": "Moderate rain",
+      "sunrise": "06:42",
+      "sunset": "18:25"
+    },
+    "hourly": [
+      {
+        "hour": "00:00",
+        "temperature": 23.9,
+        "rainProbability": 29
+      },
+      {
+        "hour": "01:00",
+        "temperature": 23.9,
+        "rainProbability": 13
+      },
+      {
+        "hour": "02:00",
+        "temperature": 23.9,
+        "rainProbability": 10
+      },
+      {
+        "hour": "03:00",
+        "temperature": 23.9,
+        "rainProbability": 34
+      },
+      {
+        "hour": "04:00",
+        "temperature": 23.9,
+        "rainProbability": 64
+      },
+      {
+        "hour": "05:00",
+        "temperature": 23.9,
+        "rainProbability": 56
+      },
+      {
+        "hour": "06:00",
+        "temperature": 23.9,
+        "rainProbability": 9
+      },
+      {
+        "hour": "07:00",
+        "temperature": 26.2,
+        "rainProbability": 14
+      },
+      {
+        "hour": "08:00",
+        "temperature": 28.3,
+        "rainProbability": 65
+      },
+      {
+        "hour": "09:00",
+        "temperature": 30.2,
+        "rainProbability": 18
+      },
+      {
+        "hour": "10:00",
+        "temperature": 31.6,
+        "rainProbability": 28
+      },
+      {
+        "hour": "11:00",
+        "temperature": 32.5,
+        "rainProbability": 56
+      },
+      {
+        "hour": "12:00",
+        "temperature": 32.8,
+        "rainProbability": 23
+      },
+      {
+        "hour": "13:00",
+        "temperature": 32.5,
+        "rainProbability": 17
+      },
+      {
+        "hour": "14:00",
+        "temperature": 31.6,
+        "rainProbability": 37
+      },
+      {
+        "hour": "15:00",
+        "temperature": 30.2,
+        "rainProbability": 8
+      },
+      {
+        "hour": "16:00",
+        "temperature": 28.3,
+        "rainProbability": 22
+      },
+      {
+        "hour": "17:00",
+        "temperature": 26.2,
+        "rainProbability": 74
+      },
+      {
+        "hour": "18:00",
+        "temperature": 23.9,
+        "rainProbability": 35
+      },
+      {
+        "hour": "19:00",
+        "temperature": 21.6,
+        "rainProbability": 16
+      },
+      {
+        "hour": "20:00",
+        "temperature": 19.4,
+        "rainProbability": 47
+      },
+      {
+        "hour": "21:00",
+        "temperature": 17.6,
+        "rainProbability": 58
+      },
+      {
+        "hour": "22:00",
+        "temperature": 16.2,
+        "rainProbability": 39
+      },
+      {
+        "hour": "23:00",
+        "temperature": 15.3,
+        "rainProbability": 51
+      }
+    ],
+    "forecast": [
+      {
+        "date": "2026-10-03",
+        "tempMax": 32.8,
+        "tempMin": 23.9,
+        "humidity": 76,
+        "rainfallMm": 10.3,
+        "rainProbability": 74,
+        "windKmh": 8.3,
+        "uvIndex": 3.1,
+        "condition": "Moderate rain"
+      },
+      {
+        "date": "2026-10-04",
+        "tempMax": 31.8,
+        "tempMin": 22.3,
+        "humidity": 66,
+        "rainfallMm": 25.3,
+        "rainProbability": 56,
+        "windKmh": 9.9,
+        "uvIndex": 3.5,
+        "condition": "Heavy rain"
+      },
+      {
+        "date": "2026-10-05",
+        "tempMax": 35.5,
+        "tempMin": 22.7,
+        "humidity": 70,
+        "rainfallMm": 0,
+        "rainProbability": 20,
+        "windKmh": 7.3,
+        "uvIndex": 8.9,
+        "condition": "Sunny"
+      },
+      {
+        "date": "2026-10-06",
+        "tempMax": 33.8,
+        "tempMin": 21.8,
+        "humidity": 59,
+        "rainfallMm": 0,
+        "rainProbability": 13,
+        "windKmh": 15.4,
+        "uvIndex": 7.5,
+        "condition": "Sunny"
+      },
+      {
+        "date": "2026-10-07",
+        "tempMax": 35.5,
+        "tempMin": 24,
+        "humidity": 79,
+        "rainfallMm": 0,
+        "rainProbability": 13,
+        "windKmh": 11.2,
+        "uvIndex": 6.7,
+        "condition": "Sunny"
+      },
+      {
+        "date": "2026-10-08",
+        "tempMax": 32,
+        "tempMin": 24.7,
+        "humidity": 81,
+        "rainfallMm": 0,
+        "rainProbability": 14,
+        "windKmh": 20.8,
+        "uvIndex": 6.4,
+        "condition": "Clear"
+      },
+      {
+        "date": "2026-10-09",
+        "tempMax": 28.9,
+        "tempMin": 24.9,
+        "humidity": 68,
+        "rainfallMm": 28.4,
+        "rainProbability": 93,
+        "windKmh": 22.1,
+        "uvIndex": 4.6,
+        "condition": "Heavy rain"
+      }
+    ]
+  },
+  "Mehsana": {
+    "city": "Mehsana",
+    "state": "Gujarat",
+    "updatedAt": "2026-10-03T00:00:00.000Z",
+    "current": {
+      "temperature": 29.7,
+      "feelsLike": 36.4,
+      "humidity": 67,
+      "windKmh": 13.9,
+      "pressureHpa": 1006,
+      "uvIndex": 8.4,
+      "condition": "Partly cloudy",
+      "sunrise": "06:42",
+      "sunset": "18:25"
+    },
+    "hourly": [
+      {
+        "hour": "00:00",
+        "temperature": 23.6,
+        "rainProbability": 10
+      },
+      {
+        "hour": "01:00",
+        "temperature": 23.6,
+        "rainProbability": 2
+      },
+      {
+        "hour": "02:00",
+        "temperature": 23.6,
+        "rainProbability": 13
+      },
+      {
+        "hour": "03:00",
+        "temperature": 23.6,
+        "rainProbability": 1
+      },
+      {
+        "hour": "04:00",
+        "temperature": 23.6,
+        "rainProbability": 7
+      },
+      {
+        "hour": "05:00",
+        "temperature": 23.6,
+        "rainProbability": 11
+      },
+      {
+        "hour": "06:00",
+        "temperature": 23.6,
+        "rainProbability": 13
+      },
+      {
+        "hour": "07:00",
+        "temperature": 26.6,
+        "rainProbability": 3
+      },
+      {
+        "hour": "08:00",
+        "temperature": 29.4,
+        "rainProbability": 6
+      },
+      {
+        "hour": "09:00",
+        "temperature": 31.7,
+        "rainProbability": 1
+      },
+      {
+        "hour": "10:00",
+        "temperature": 33.6,
+        "rainProbability": 10
+      },
+      {
+        "hour": "11:00",
+        "temperature": 34.7,
+        "rainProbability": 2
+      },
+      {
+        "hour": "12:00",
+        "temperature": 35.1,
+        "rainProbability": 1
+      },
+      {
+        "hour": "13:00",
+        "temperature": 34.7,
+        "rainProbability": 4
+      },
+      {
+        "hour": "14:00",
+        "temperature": 33.6,
+        "rainProbability": 4
+      },
+      {
+        "hour": "15:00",
+        "temperature": 31.7,
+        "rainProbability": 13
+      },
+      {
+        "hour": "16:00",
+        "temperature": 29.4,
+        "rainProbability": 1
+      },
+      {
+        "hour": "17:00",
+        "temperature": 26.6,
+        "rainProbability": 1
+      },
+      {
+        "hour": "18:00",
+        "temperature": 23.6,
+        "rainProbability": 6
+      },
+      {
+        "hour": "19:00",
+        "temperature": 20.6,
+        "rainProbability": 5
+      },
+      {
+        "hour": "20:00",
+        "temperature": 17.9,
+        "rainProbability": 12
+      },
+      {
+        "hour": "21:00",
+        "temperature": 15.5,
+        "rainProbability": 6
+      },
+      {
+        "hour": "22:00",
+        "temperature": 13.6,
+        "rainProbability": 10
+      },
+      {
+        "hour": "23:00",
+        "temperature": 12.5,
+        "rainProbability": 2
+      }
+    ],
+    "forecast": [
+      {
+        "date": "2026-10-03",
+        "tempMax": 35.1,
+        "tempMin": 23.6,
+        "humidity": 67,
+        "rainfallMm": 0,
+        "rainProbability": 15,
+        "windKmh": 13.9,
+        "uvIndex": 8.4,
+        "condition": "Partly cloudy"
+      },
+      {
+        "date": "2026-10-04",
+        "tempMax": 33.3,
+        "tempMin": 24.8,
+        "humidity": 44,
+        "rainfallMm": 0,
+        "rainProbability": 20,
+        "windKmh": 10.5,
+        "uvIndex": 8.6,
+        "condition": "Partly cloudy"
+      },
+      {
+        "date": "2026-10-05",
+        "tempMax": 32.8,
+        "tempMin": 25.7,
+        "humidity": 60,
+        "rainfallMm": 12.3,
+        "rainProbability": 89,
+        "windKmh": 10.6,
+        "uvIndex": 4.1,
+        "condition": "Moderate rain"
+      },
+      {
+        "date": "2026-10-06",
+        "tempMax": 34.1,
+        "tempMin": 25,
+        "humidity": 60,
+        "rainfallMm": 0,
+        "rainProbability": 1,
+        "windKmh": 17.6,
+        "uvIndex": 8.5,
+        "condition": "Clear"
+      },
+      {
+        "date": "2026-10-07",
+        "tempMax": 30,
+        "tempMin": 24.6,
+        "humidity": 64,
+        "rainfallMm": 19.1,
+        "rainProbability": 76,
+        "windKmh": 18.7,
+        "uvIndex": 4.9,
+        "condition": "Moderate rain"
+      },
+      {
+        "date": "2026-10-08",
+        "tempMax": 35.6,
+        "tempMin": 25,
+        "humidity": 63,
+        "rainfallMm": 4.1,
+        "rainProbability": 69,
+        "windKmh": 14.6,
+        "uvIndex": 8.4,
+        "condition": "Light rain"
+      },
+      {
+        "date": "2026-10-09",
+        "tempMax": 36.8,
+        "tempMin": 22.9,
+        "humidity": 60,
+        "rainfallMm": 0,
+        "rainProbability": 21,
+        "windKmh": 8.5,
+        "uvIndex": 7.2,
+        "condition": "Partly cloudy"
+      }
+    ]
+  },
+  "Anand": {
+    "city": "Anand",
+    "state": "Gujarat",
+    "updatedAt": "2026-10-03T00:00:00.000Z",
+    "current": {
+      "temperature": 32.2,
+      "feelsLike": 34.6,
+      "humidity": 72,
+      "windKmh": 13.7,
+      "pressureHpa": 1005,
+      "uvIndex": 4.5,
+      "condition": "Heavy rain",
+      "sunrise": "06:42",
+      "sunset": "18:25"
+    },
+    "hourly": [
+      {
+        "hour": "00:00",
+        "temperature": 25.4,
+        "rainProbability": 19
+      },
+      {
+        "hour": "01:00",
+        "temperature": 25.4,
+        "rainProbability": 72
+      },
+      {
+        "hour": "02:00",
+        "temperature": 25.4,
+        "rainProbability": 69
+      },
+      {
+        "hour": "03:00",
+        "temperature": 25.4,
+        "rainProbability": 53
+      },
+      {
+        "hour": "04:00",
+        "temperature": 25.4,
+        "rainProbability": 11
+      },
+      {
+        "hour": "05:00",
+        "temperature": 25.4,
+        "rainProbability": 1
+      },
+      {
+        "hour": "06:00",
+        "temperature": 25.4,
+        "rainProbability": 20
+      },
+      {
+        "hour": "07:00",
+        "temperature": 27.4,
+        "rainProbability": 60
+      },
+      {
+        "hour": "08:00",
+        "temperature": 29.3,
+        "rainProbability": 5
+      },
+      {
+        "hour": "09:00",
+        "temperature": 31,
+        "rainProbability": 55
+      },
+      {
+        "hour": "10:00",
+        "temperature": 32.2,
+        "rainProbability": 56
+      },
+      {
+        "hour": "11:00",
+        "temperature": 33,
+        "rainProbability": 40
+      },
+      {
+        "hour": "12:00",
+        "temperature": 33.3,
+        "rainProbability": 42
+      },
+      {
+        "hour": "13:00",
+        "temperature": 33,
+        "rainProbability": 58
+      },
+      {
+        "hour": "14:00",
+        "temperature": 32.2,
+        "rainProbability": 35
+      },
+      {
+        "hour": "15:00",
+        "temperature": 31,
+        "rainProbability": 50
+      },
+      {
+        "hour": "16:00",
+        "temperature": 29.3,
+        "rainProbability": 4
+      },
+      {
+        "hour": "17:00",
+        "temperature": 27.4,
+        "rainProbability": 63
+      },
+      {
+        "hour": "18:00",
+        "temperature": 25.4,
+        "rainProbability": 75
+      },
+      {
+        "hour": "19:00",
+        "temperature": 23.4,
+        "rainProbability": 47
+      },
+      {
+        "hour": "20:00",
+        "temperature": 21.4,
+        "rainProbability": 79
+      },
+      {
+        "hour": "21:00",
+        "temperature": 19.8,
+        "rainProbability": 57
+      },
+      {
+        "hour": "22:00",
+        "temperature": 18.6,
+        "rainProbability": 26
+      },
+      {
+        "hour": "23:00",
+        "temperature": 17.8,
+        "rainProbability": 77
+      }
+    ],
+    "forecast": [
+      {
+        "date": "2026-10-03",
+        "tempMax": 33.3,
+        "tempMin": 25.4,
+        "humidity": 72,
+        "rainfallMm": 27.6,
+        "rainProbability": 80,
+        "windKmh": 13.7,
+        "uvIndex": 4.5,
+        "condition": "Heavy rain"
+      },
+      {
+        "date": "2026-10-04",
+        "tempMax": 32.4,
+        "tempMin": 24.4,
+        "humidity": 67,
+        "rainfallMm": 14.1,
+        "rainProbability": 71,
+        "windKmh": 18.3,
+        "uvIndex": 3.1,
+        "condition": "Moderate rain"
+      },
+      {
+        "date": "2026-10-05",
+        "tempMax": 36.2,
+        "tempMin": 24.8,
+        "humidity": 66,
+        "rainfallMm": 0,
+        "rainProbability": 23,
+        "windKmh": 19.3,
+        "uvIndex": 7.3,
+        "condition": "Sunny"
+      },
+      {
+        "date": "2026-10-06",
+        "tempMax": 36.1,
+        "tempMin": 22.1,
+        "humidity": 59,
+        "rainfallMm": 0,
+        "rainProbability": 15,
+        "windKmh": 19.3,
+        "uvIndex": 7.2,
+        "condition": "Clear"
+      },
+      {
+        "date": "2026-10-07",
+        "tempMax": 37,
+        "tempMin": 25.5,
+        "humidity": 75,
+        "rainfallMm": 0,
+        "rainProbability": 11,
+        "windKmh": 19.9,
+        "uvIndex": 6.9,
+        "condition": "Clear"
+      },
+      {
+        "date": "2026-10-08",
+        "tempMax": 35.3,
+        "tempMin": 23.8,
+        "humidity": 86,
+        "rainfallMm": 2.3,
+        "rainProbability": 68,
+        "windKmh": 17.4,
+        "uvIndex": 8.5,
+        "condition": "Light rain"
+      },
+      {
+        "date": "2026-10-09",
+        "tempMax": 36.2,
+        "tempMin": 25,
+        "humidity": 66,
+        "rainfallMm": 0,
+        "rainProbability": 2,
+        "windKmh": 23.1,
+        "uvIndex": 7.4,
+        "condition": "Partly cloudy"
+      }
+    ]
+  }
+}

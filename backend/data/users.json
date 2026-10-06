@@ -1,0 +1,97 @@
+[
+  {
+    "id": "u1",
+    "name": "Ramesh Patel",
+    "phone": "9876543210",
+    "password": "farmer123",
+    "role": "farmer",
+    "language": "gu",
+    "location": "Mehsana",
+    "landSizeAcres": 5,
+    "soilType": "Alluvial",
+    "crops": [
+      "cotton",
+      "castor"
+    ],
+    "soil": {
+      "N": 90,
+      "P": 40,
+      "K": 40,
+      "ph": 7.2
+    },
+    "savedLocations": [
+      "Mehsana",
+      "Ahmedabad"
+    ],
+    "notifications": {
+      "sms": true,
+      "email": false
+    }
+  },
+  {
+    "id": "u2",
+    "name": "Sita Devi",
+    "phone": "9123456780",
+    "password": "farmer123",
+    "role": "farmer",
+    "language": "hi",
+    "location": "Rajkot",
+    "landSizeAcres": 3,
+    "soilType": "Black",
+    "crops": [
+      "groundnut"
+    ],
+    "soil": {
+      "N": 30,
+      "P": 45,
+      "K": 45,
+      "ph": 6.5
+    },
+    "savedLocations": [
+      "Rajkot"
+    ],
+    "notifications": {
+      "sms": true,
+      "email": true
+    }
+  },
+  {
+    "id": "u3",
+    "name": "Kiran Shah",
+    "phone": "9988776655",
+    "password": "farmer123",
+    "role": "farmer",
+    "language": "en",
+    "location": "Surat",
+    "landSizeAcres": 8,
+    "soilType": "Alluvial",
+    "crops": [
+      "rice",
+      "sugarcane"
+    ],
+    "soil": {
+      "N": 100,
+      "P": 50,
+      "K": 45,
+      "ph": 6.4
+    },
+    "savedLocations": [
+      "Surat",
+      "Vadodara"
+    ],
+    "notifications": {
+      "sms": false,
+      "email": true
+    }
+  },
+  {
+    "id": "a1",
+    "name": "Admin",
+    "phone": "9000000000",
+    "password": "admin123",
+    "role": "admin",
+    "language": "en",
+    "location": "Ahmedabad",
+    "savedLocations": []
+  }
+]

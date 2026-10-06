@@ -1,0 +1,138 @@
+[
+  {
+    "id": "loc_ahm",
+    "name": "Ahmedabad",
+    "district": "Ahmedabad",
+    "state": "Gujarat",
+    "lat": 23.0225,
+    "lon": 72.5714,
+    "baseTemp": 31,
+    "baseHum": 58,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.5714,
+        23.0225
+      ]
+    }
+  },
+  {
+    "id": "loc_sur",
+    "name": "Surat",
+    "district": "Surat",
+    "state": "Gujarat",
+    "lat": 21.1702,
+    "lon": 72.8311,
+    "baseTemp": 30,
+    "baseHum": 72,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.8311,
+        21.1702
+      ]
+    }
+  },
+  {
+    "id": "loc_raj",
+    "name": "Rajkot",
+    "district": "Rajkot",
+    "state": "Gujarat",
+    "lat": 22.3039,
+    "lon": 70.8022,
+    "baseTemp": 31,
+    "baseHum": 55,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        70.8022,
+        22.3039
+      ]
+    }
+  },
+  {
+    "id": "loc_vad",
+    "name": "Vadodara",
+    "district": "Vadodara",
+    "state": "Gujarat",
+    "lat": 22.3072,
+    "lon": 73.1812,
+    "baseTemp": 31,
+    "baseHum": 62,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.1812,
+        22.3072
+      ]
+    }
+  },
+  {
+    "id": "loc_bhv",
+    "name": "Bhavnagar",
+    "district": "Bhavnagar",
+    "state": "Gujarat",
+    "lat": 21.7645,
+    "lon": 72.1519,
+    "baseTemp": 30,
+    "baseHum": 64,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.1519,
+        21.7645
+      ]
+    }
+  },
+  {
+    "id": "loc_jun",
+    "name": "Junagadh",
+    "district": "Junagadh",
+    "state": "Gujarat",
+    "lat": 21.5222,
+    "lon": 70.4579,
+    "baseTemp": 30,
+    "baseHum": 66,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        70.4579,
+        21.5222
+      ]
+    }
+  },
+  {
+    "id": "loc_mhs",
+    "name": "Mehsana",
+    "district": "Mehsana",
+    "state": "Gujarat",
+    "lat": 23.588,
+    "lon": 72.3693,
+    "baseTemp": 31,
+    "baseHum": 52,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.3693,
+        23.588
+      ]
+    }
+  },
+  {
+    "id": "loc_and",
+    "name": "Anand",
+    "district": "Anand",
+    "state": "Gujarat",
+    "lat": 22.5645,
+    "lon": 72.9289,
+    "baseTemp": 31,
+    "baseHum": 60,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.9289,
+        22.5645
+      ]
+    }
+  }
+]

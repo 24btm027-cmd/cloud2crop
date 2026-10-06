@@ -1,0 +1,412 @@
+[
+  {
+    "city": "Ahmedabad",
+    "date": "2026-10-03",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Ahmedabad",
+    "date": "2026-10-05",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Ahmedabad",
+    "date": "2026-10-05",
+    "ruleId": "R2",
+    "level": "danger",
+    "title": "Heavy rain",
+    "advice": "Open drainage channels, protect harvested produce, and avoid field work.",
+    "adviceHi": "भारी बारिश। खेत से पानी निकासी की व्यवस्था करें और कटी फसल ढकें।",
+    "adviceGu": "ભારે વરસાદ. ખેતરમાંથી પાણીના નિકાલની વ્યવસ્થા કરો અને પાક ઢાંકો."
+  },
+  {
+    "city": "Ahmedabad",
+    "date": "2026-10-06",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Ahmedabad",
+    "date": "2026-10-08",
+    "ruleId": "R6",
+    "level": "good",
+    "title": "Good spraying day",
+    "advice": "Dry and calm weather. Good day for spraying and fertiliser application.",
+    "adviceHi": "मौसम साफ है। छिड़काव के लिए अच्छा दिन।",
+    "adviceGu": "હવામાન સારું છે. છંટકાવ માટે સારો દિવસ."
+  },
+  {
+    "city": "Ahmedabad",
+    "date": "2026-10-09",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Surat",
+    "date": "2026-10-05",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Surat",
+    "date": "2026-10-06",
+    "ruleId": "R4",
+    "level": "warning",
+    "title": "Fungal disease risk",
+    "advice": "Inspect leaves for blight or mildew and keep fungicide ready.",
+    "adviceHi": "फफूंद रोग का खतरा। पत्तियों की जांच करें।",
+    "adviceGu": "ફૂગજન્ય રોગનું જોખમ. પાંદડાં તપાસો."
+  },
+  {
+    "city": "Surat",
+    "date": "2026-10-06",
+    "ruleId": "R6",
+    "level": "good",
+    "title": "Good spraying day",
+    "advice": "Dry and calm weather. Good day for spraying and fertiliser application.",
+    "adviceHi": "मौसम साफ है। छिड़काव के लिए अच्छा दिन।",
+    "adviceGu": "હવામાન સારું છે. છંટકાવ માટે સારો દિવસ."
+  },
+  {
+    "city": "Surat",
+    "date": "2026-10-07",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Surat",
+    "date": "2026-10-08",
+    "ruleId": "R4",
+    "level": "warning",
+    "title": "Fungal disease risk",
+    "advice": "Inspect leaves for blight or mildew and keep fungicide ready.",
+    "adviceHi": "फफूंद रोग का खतरा। पत्तियों की जांच करें।",
+    "adviceGu": "ફૂગજન્ય રોગનું જોખમ. પાંદડાં તપાસો."
+  },
+  {
+    "city": "Surat",
+    "date": "2026-10-09",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Rajkot",
+    "date": "2026-10-06",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Rajkot",
+    "date": "2026-10-07",
+    "ruleId": "R6",
+    "level": "good",
+    "title": "Good spraying day",
+    "advice": "Dry and calm weather. Good day for spraying and fertiliser application.",
+    "adviceHi": "मौसम साफ है। छिड़काव के लिए अच्छा दिन।",
+    "adviceGu": "હવામાન સારું છે. છંટકાવ માટે સારો દિવસ."
+  },
+  {
+    "city": "Rajkot",
+    "date": "2026-10-08",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Rajkot",
+    "date": "2026-10-09",
+    "ruleId": "R6",
+    "level": "good",
+    "title": "Good spraying day",
+    "advice": "Dry and calm weather. Good day for spraying and fertiliser application.",
+    "adviceHi": "मौसम साफ है। छिड़काव के लिए अच्छा दिन।",
+    "adviceGu": "હવામાન સારું છે. છંટકાવ માટે સારો દિવસ."
+  },
+  {
+    "city": "Vadodara",
+    "date": "2026-10-05",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Vadodara",
+    "date": "2026-10-07",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Vadodara",
+    "date": "2026-10-08",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Vadodara",
+    "date": "2026-10-09",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Bhavnagar",
+    "date": "2026-10-03",
+    "ruleId": "R4",
+    "level": "warning",
+    "title": "Fungal disease risk",
+    "advice": "Inspect leaves for blight or mildew and keep fungicide ready.",
+    "adviceHi": "फफूंद रोग का खतरा। पत्तियों की जांच करें।",
+    "adviceGu": "ફૂગજન્ય રોગનું જોખમ. પાંદડાં તપાસો."
+  },
+  {
+    "city": "Bhavnagar",
+    "date": "2026-10-04",
+    "ruleId": "R6",
+    "level": "good",
+    "title": "Good spraying day",
+    "advice": "Dry and calm weather. Good day for spraying and fertiliser application.",
+    "adviceHi": "मौसम साफ है। छिड़काव के लिए अच्छा दिन।",
+    "adviceGu": "હવામાન સારું છે. છંટકાવ માટે સારો દિવસ."
+  },
+  {
+    "city": "Bhavnagar",
+    "date": "2026-10-07",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Bhavnagar",
+    "date": "2026-10-07",
+    "ruleId": "R2",
+    "level": "danger",
+    "title": "Heavy rain",
+    "advice": "Open drainage channels, protect harvested produce, and avoid field work.",
+    "adviceHi": "भारी बारिश। खेत से पानी निकासी की व्यवस्था करें और कटी फसल ढकें।",
+    "adviceGu": "ભારે વરસાદ. ખેતરમાંથી પાણીના નિકાલની વ્યવસ્થા કરો અને પાક ઢાંકો."
+  },
+  {
+    "city": "Bhavnagar",
+    "date": "2026-10-07",
+    "ruleId": "R4",
+    "level": "warning",
+    "title": "Fungal disease risk",
+    "advice": "Inspect leaves for blight or mildew and keep fungicide ready.",
+    "adviceHi": "फफूंद रोग का खतरा। पत्तियों की जांच करें।",
+    "adviceGu": "ફૂગજન્ય રોગનું જોખમ. પાંદડાં તપાસો."
+  },
+  {
+    "city": "Bhavnagar",
+    "date": "2026-10-08",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Bhavnagar",
+    "date": "2026-10-08",
+    "ruleId": "R4",
+    "level": "warning",
+    "title": "Fungal disease risk",
+    "advice": "Inspect leaves for blight or mildew and keep fungicide ready.",
+    "adviceHi": "फफूंद रोग का खतरा। पत्तियों की जांच करें।",
+    "adviceGu": "ફૂગજન્ય રોગનું જોખમ. પાંદડાં તપાસો."
+  },
+  {
+    "city": "Bhavnagar",
+    "date": "2026-10-09",
+    "ruleId": "R6",
+    "level": "good",
+    "title": "Good spraying day",
+    "advice": "Dry and calm weather. Good day for spraying and fertiliser application.",
+    "adviceHi": "मौसम साफ है। छिड़काव के लिए अच्छा दिन।",
+    "adviceGu": "હવામાન સારું છે. છંટકાવ માટે સારો દિવસ."
+  },
+  {
+    "city": "Junagadh",
+    "date": "2026-10-03",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Junagadh",
+    "date": "2026-10-04",
+    "ruleId": "R2",
+    "level": "danger",
+    "title": "Heavy rain",
+    "advice": "Open drainage channels, protect harvested produce, and avoid field work.",
+    "adviceHi": "भारी बारिश। खेत से पानी निकासी की व्यवस्था करें और कटी फसल ढकें।",
+    "adviceGu": "ભારે વરસાદ. ખેતરમાંથી પાણીના નિકાલની વ્યવસ્થા કરો અને પાક ઢાંકો."
+  },
+  {
+    "city": "Junagadh",
+    "date": "2026-10-07",
+    "ruleId": "R6",
+    "level": "good",
+    "title": "Good spraying day",
+    "advice": "Dry and calm weather. Good day for spraying and fertiliser application.",
+    "adviceHi": "मौसम साफ है। छिड़काव के लिए अच्छा दिन।",
+    "adviceGu": "હવામાન સારું છે. છંટકાવ માટે સારો દિવસ."
+  },
+  {
+    "city": "Junagadh",
+    "date": "2026-10-08",
+    "ruleId": "R4",
+    "level": "warning",
+    "title": "Fungal disease risk",
+    "advice": "Inspect leaves for blight or mildew and keep fungicide ready.",
+    "adviceHi": "फफूंद रोग का खतरा। पत्तियों की जांच करें।",
+    "adviceGu": "ફૂગજન્ય રોગનું જોખમ. પાંદડાં તપાસો."
+  },
+  {
+    "city": "Junagadh",
+    "date": "2026-10-09",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Junagadh",
+    "date": "2026-10-09",
+    "ruleId": "R2",
+    "level": "danger",
+    "title": "Heavy rain",
+    "advice": "Open drainage channels, protect harvested produce, and avoid field work.",
+    "adviceHi": "भारी बारिश। खेत से पानी निकासी की व्यवस्था करें और कटी फसल ढकें।",
+    "adviceGu": "ભારે વરસાદ. ખેતરમાંથી પાણીના નિકાલની વ્યવસ્થા કરો અને પાક ઢાંકો."
+  },
+  {
+    "city": "Mehsana",
+    "date": "2026-10-03",
+    "ruleId": "R6",
+    "level": "good",
+    "title": "Good spraying day",
+    "advice": "Dry and calm weather. Good day for spraying and fertiliser application.",
+    "adviceHi": "मौसम साफ है। छिड़काव के लिए अच्छा दिन।",
+    "adviceGu": "હવામાન સારું છે. છંટકાવ માટે સારો દિવસ."
+  },
+  {
+    "city": "Mehsana",
+    "date": "2026-10-05",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Mehsana",
+    "date": "2026-10-07",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Anand",
+    "date": "2026-10-03",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Anand",
+    "date": "2026-10-03",
+    "ruleId": "R2",
+    "level": "danger",
+    "title": "Heavy rain",
+    "advice": "Open drainage channels, protect harvested produce, and avoid field work.",
+    "adviceHi": "भारी बारिश। खेत से पानी निकासी की व्यवस्था करें और कटी फसल ढकें।",
+    "adviceGu": "ભારે વરસાદ. ખેતરમાંથી પાણીના નિકાલની વ્યવસ્થા કરો અને પાક ઢાંકો."
+  },
+  {
+    "city": "Anand",
+    "date": "2026-10-04",
+    "ruleId": "R1",
+    "level": "warning",
+    "title": "Rain expected",
+    "advice": "Delay irrigation and do not spray pesticide or fertiliser. Rain will wash it away.",
+    "adviceHi": "बारिश की संभावना है। सिंचाई और कीटनाशक का छिड़काव टालें।",
+    "adviceGu": "વરસાદની શક્યતા છે. પિયત અને દવાનો છંટકાવ મુલતવી રાખો."
+  },
+  {
+    "city": "Anand",
+    "date": "2026-10-08",
+    "ruleId": "R4",
+    "level": "warning",
+    "title": "Fungal disease risk",
+    "advice": "Inspect leaves for blight or mildew and keep fungicide ready.",
+    "adviceHi": "फफूंद रोग का खतरा। पत्तियों की जांच करें।",
+    "adviceGu": "ફૂગજન્ય રોગનું જોખમ. પાંદડાં તપાસો."
+  }
+]

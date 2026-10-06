@@ -1,0 +1,3842 @@
+[
+  {
+    "location": "Ahmedabad",
+    "year": 2021,
+    "month": 1,
+    "avgTemp": 19.5,
+    "rainfallMm": 1.4,
+    "avgHumidity": 46
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2021,
+    "month": 2,
+    "avgTemp": 22,
+    "rainfallMm": 0.5,
+    "avgHumidity": 53
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2021,
+    "month": 3,
+    "avgTemp": 29.2,
+    "rainfallMm": 1.2,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2021,
+    "month": 4,
+    "avgTemp": 34.4,
+    "rainfallMm": 0.6,
+    "avgHumidity": 45
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2021,
+    "month": 5,
+    "avgTemp": 34.8,
+    "rainfallMm": 1.2,
+    "avgHumidity": 45
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2021,
+    "month": 6,
+    "avgTemp": 36.4,
+    "rainfallMm": 27.1,
+    "avgHumidity": 81
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2021,
+    "month": 7,
+    "avgTemp": 32.1,
+    "rainfallMm": 133.4,
+    "avgHumidity": 74
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2021,
+    "month": 8,
+    "avgTemp": 28.3,
+    "rainfallMm": 291,
+    "avgHumidity": 79
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2021,
+    "month": 9,
+    "avgTemp": 29.3,
+    "rainfallMm": 116,
+    "avgHumidity": 81
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2021,
+    "month": 10,
+    "avgTemp": 30.3,
+    "rainfallMm": 27.6,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2021,
+    "month": 11,
+    "avgTemp": 24.9,
+    "rainfallMm": 5.8,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2021,
+    "month": 12,
+    "avgTemp": 20.5,
+    "rainfallMm": 0.6,
+    "avgHumidity": 46
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2022,
+    "month": 1,
+    "avgTemp": 18.6,
+    "rainfallMm": 1.2,
+    "avgHumidity": 46
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2022,
+    "month": 2,
+    "avgTemp": 23.9,
+    "rainfallMm": 0.3,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2022,
+    "month": 3,
+    "avgTemp": 28.1,
+    "rainfallMm": 0.9,
+    "avgHumidity": 46
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2022,
+    "month": 4,
+    "avgTemp": 33.7,
+    "rainfallMm": 0.4,
+    "avgHumidity": 47
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2022,
+    "month": 5,
+    "avgTemp": 37.3,
+    "rainfallMm": 1.9,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2022,
+    "month": 6,
+    "avgTemp": 34.4,
+    "rainfallMm": 37.2,
+    "avgHumidity": 74
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2022,
+    "month": 7,
+    "avgTemp": 30,
+    "rainfallMm": 155.6,
+    "avgHumidity": 80
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2022,
+    "month": 8,
+    "avgTemp": 28.3,
+    "rainfallMm": 207.8,
+    "avgHumidity": 79
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2022,
+    "month": 9,
+    "avgTemp": 29.8,
+    "rainfallMm": 104.4,
+    "avgHumidity": 76
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2022,
+    "month": 10,
+    "avgTemp": 28.8,
+    "rainfallMm": 21.3,
+    "avgHumidity": 47
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2022,
+    "month": 11,
+    "avgTemp": 27,
+    "rainfallMm": 5.8,
+    "avgHumidity": 51
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2022,
+    "month": 12,
+    "avgTemp": 20.8,
+    "rainfallMm": 1.3,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2023,
+    "month": 1,
+    "avgTemp": 19.3,
+    "rainfallMm": 1,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2023,
+    "month": 2,
+    "avgTemp": 22.6,
+    "rainfallMm": 0.3,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2023,
+    "month": 3,
+    "avgTemp": 28.5,
+    "rainfallMm": 1.2,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2023,
+    "month": 4,
+    "avgTemp": 32,
+    "rainfallMm": 0.6,
+    "avgHumidity": 45
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2023,
+    "month": 5,
+    "avgTemp": 36.8,
+    "rainfallMm": 2.1,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2023,
+    "month": 6,
+    "avgTemp": 34.1,
+    "rainfallMm": 30.4,
+    "avgHumidity": 79
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2023,
+    "month": 7,
+    "avgTemp": 29.7,
+    "rainfallMm": 266.8,
+    "avgHumidity": 73
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2023,
+    "month": 8,
+    "avgTemp": 28.4,
+    "rainfallMm": 145.5,
+    "avgHumidity": 78
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2023,
+    "month": 9,
+    "avgTemp": 30,
+    "rainfallMm": 104.4,
+    "avgHumidity": 78
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2023,
+    "month": 10,
+    "avgTemp": 29,
+    "rainfallMm": 17,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2023,
+    "month": 11,
+    "avgTemp": 25.9,
+    "rainfallMm": 5.8,
+    "avgHumidity": 53
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2023,
+    "month": 12,
+    "avgTemp": 20.2,
+    "rainfallMm": 1.4,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2024,
+    "month": 1,
+    "avgTemp": 18.7,
+    "rainfallMm": 0.9,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2024,
+    "month": 2,
+    "avgTemp": 23.9,
+    "rainfallMm": 0.7,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2024,
+    "month": 3,
+    "avgTemp": 28.5,
+    "rainfallMm": 1,
+    "avgHumidity": 53
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2024,
+    "month": 4,
+    "avgTemp": 33.9,
+    "rainfallMm": 0.6,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2024,
+    "month": 5,
+    "avgTemp": 35.3,
+    "rainfallMm": 2.3,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2024,
+    "month": 6,
+    "avgTemp": 33.8,
+    "rainfallMm": 44,
+    "avgHumidity": 76
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2024,
+    "month": 7,
+    "avgTemp": 30.6,
+    "rainfallMm": 333.5,
+    "avgHumidity": 78
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2024,
+    "month": 8,
+    "avgTemp": 28.1,
+    "rainfallMm": 249.4,
+    "avgHumidity": 79
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2024,
+    "month": 9,
+    "avgTemp": 31.1,
+    "rainfallMm": 104.4,
+    "avgHumidity": 75
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2024,
+    "month": 10,
+    "avgTemp": 28.6,
+    "rainfallMm": 19.1,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2024,
+    "month": 11,
+    "avgTemp": 27.3,
+    "rainfallMm": 4.6,
+    "avgHumidity": 51
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2024,
+    "month": 12,
+    "avgTemp": 21.1,
+    "rainfallMm": 1.2,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2025,
+    "month": 1,
+    "avgTemp": 18.8,
+    "rainfallMm": 0.7,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2025,
+    "month": 2,
+    "avgTemp": 23.4,
+    "rainfallMm": 0.4,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2025,
+    "month": 3,
+    "avgTemp": 29.5,
+    "rainfallMm": 0.8,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2025,
+    "month": 4,
+    "avgTemp": 32.1,
+    "rainfallMm": 0.4,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2025,
+    "month": 5,
+    "avgTemp": 34.7,
+    "rainfallMm": 2.5,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2025,
+    "month": 6,
+    "avgTemp": 33.8,
+    "rainfallMm": 44,
+    "avgHumidity": 81
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2025,
+    "month": 7,
+    "avgTemp": 31,
+    "rainfallMm": 133.4,
+    "avgHumidity": 76
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2025,
+    "month": 8,
+    "avgTemp": 29.4,
+    "rainfallMm": 145.5,
+    "avgHumidity": 82
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2025,
+    "month": 9,
+    "avgTemp": 29.4,
+    "rainfallMm": 139.2,
+    "avgHumidity": 80
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2025,
+    "month": 10,
+    "avgTemp": 31.2,
+    "rainfallMm": 21.3,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2025,
+    "month": 11,
+    "avgTemp": 27.1,
+    "rainfallMm": 4.1,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Ahmedabad",
+    "year": 2025,
+    "month": 12,
+    "avgTemp": 19.8,
+    "rainfallMm": 0.8,
+    "avgHumidity": 45
+  },
+  {
+    "location": "Surat",
+    "year": 2021,
+    "month": 1,
+    "avgTemp": 18.2,
+    "rainfallMm": 1.6,
+    "avgHumidity": 69
+  },
+  {
+    "location": "Surat",
+    "year": 2021,
+    "month": 2,
+    "avgTemp": 22.3,
+    "rainfallMm": 0.9,
+    "avgHumidity": 63
+  },
+  {
+    "location": "Surat",
+    "year": 2021,
+    "month": 3,
+    "avgTemp": 27.8,
+    "rainfallMm": 0.8,
+    "avgHumidity": 61
+  },
+  {
+    "location": "Surat",
+    "year": 2021,
+    "month": 4,
+    "avgTemp": 31.3,
+    "rainfallMm": 0.5,
+    "avgHumidity": 59
+  },
+  {
+    "location": "Surat",
+    "year": 2021,
+    "month": 5,
+    "avgTemp": 34.3,
+    "rainfallMm": 3.4,
+    "avgHumidity": 62
+  },
+  {
+    "location": "Surat",
+    "year": 2021,
+    "month": 6,
+    "avgTemp": 35.8,
+    "rainfallMm": 63,
+    "avgHumidity": 88
+  },
+  {
+    "location": "Surat",
+    "year": 2021,
+    "month": 7,
+    "avgTemp": 29.5,
+    "rainfallMm": 303.6,
+    "avgHumidity": 88
+  },
+  {
+    "location": "Surat",
+    "year": 2021,
+    "month": 8,
+    "avgTemp": 28.9,
+    "rainfallMm": 232.2,
+    "avgHumidity": 95
+  },
+  {
+    "location": "Surat",
+    "year": 2021,
+    "month": 9,
+    "avgTemp": 28.4,
+    "rainfallMm": 86.4,
+    "avgHumidity": 92
+  },
+  {
+    "location": "Surat",
+    "year": 2021,
+    "month": 10,
+    "avgTemp": 28,
+    "rainfallMm": 23.8,
+    "avgHumidity": 63
+  },
+  {
+    "location": "Surat",
+    "year": 2021,
+    "month": 11,
+    "avgTemp": 24.7,
+    "rainfallMm": 5.8,
+    "avgHumidity": 61
+  },
+  {
+    "location": "Surat",
+    "year": 2021,
+    "month": 12,
+    "avgTemp": 20.5,
+    "rainfallMm": 1.3,
+    "avgHumidity": 61
+  },
+  {
+    "location": "Surat",
+    "year": 2022,
+    "month": 1,
+    "avgTemp": 19.4,
+    "rainfallMm": 0.8,
+    "avgHumidity": 61
+  },
+  {
+    "location": "Surat",
+    "year": 2022,
+    "month": 2,
+    "avgTemp": 21.1,
+    "rainfallMm": 0.5,
+    "avgHumidity": 60
+  },
+  {
+    "location": "Surat",
+    "year": 2022,
+    "month": 3,
+    "avgTemp": 28.4,
+    "rainfallMm": 1.1,
+    "avgHumidity": 68
+  },
+  {
+    "location": "Surat",
+    "year": 2022,
+    "month": 4,
+    "avgTemp": 33,
+    "rainfallMm": 0.6,
+    "avgHumidity": 62
+  },
+  {
+    "location": "Surat",
+    "year": 2022,
+    "month": 5,
+    "avgTemp": 36.2,
+    "rainfallMm": 2.4,
+    "avgHumidity": 61
+  },
+  {
+    "location": "Surat",
+    "year": 2022,
+    "month": 6,
+    "avgTemp": 35.5,
+    "rainfallMm": 29.4,
+    "avgHumidity": 88
+  },
+  {
+    "location": "Surat",
+    "year": 2022,
+    "month": 7,
+    "avgTemp": 30.7,
+    "rainfallMm": 386.4,
+    "avgHumidity": 87
+  },
+  {
+    "location": "Surat",
+    "year": 2022,
+    "month": 8,
+    "avgTemp": 28.1,
+    "rainfallMm": 154.8,
+    "avgHumidity": 88
+  },
+  {
+    "location": "Surat",
+    "year": 2022,
+    "month": 9,
+    "avgTemp": 28.3,
+    "rainfallMm": 115.2,
+    "avgHumidity": 87
+  },
+  {
+    "location": "Surat",
+    "year": 2022,
+    "month": 10,
+    "avgTemp": 30.7,
+    "rainfallMm": 21.1,
+    "avgHumidity": 60
+  },
+  {
+    "location": "Surat",
+    "year": 2022,
+    "month": 11,
+    "avgTemp": 24.9,
+    "rainfallMm": 5.8,
+    "avgHumidity": 66
+  },
+  {
+    "location": "Surat",
+    "year": 2022,
+    "month": 12,
+    "avgTemp": 19.1,
+    "rainfallMm": 1.4,
+    "avgHumidity": 64
+  },
+  {
+    "location": "Surat",
+    "year": 2023,
+    "month": 1,
+    "avgTemp": 18.3,
+    "rainfallMm": 1,
+    "avgHumidity": 59
+  },
+  {
+    "location": "Surat",
+    "year": 2023,
+    "month": 2,
+    "avgTemp": 21.7,
+    "rainfallMm": 0.7,
+    "avgHumidity": 59
+  },
+  {
+    "location": "Surat",
+    "year": 2023,
+    "month": 3,
+    "avgTemp": 26.7,
+    "rainfallMm": 1.6,
+    "avgHumidity": 64
+  },
+  {
+    "location": "Surat",
+    "year": 2023,
+    "month": 4,
+    "avgTemp": 33.2,
+    "rainfallMm": 0.9,
+    "avgHumidity": 64
+  },
+  {
+    "location": "Surat",
+    "year": 2023,
+    "month": 5,
+    "avgTemp": 35.2,
+    "rainfallMm": 2.6,
+    "avgHumidity": 60
+  },
+  {
+    "location": "Surat",
+    "year": 2023,
+    "month": 6,
+    "avgTemp": 34.4,
+    "rainfallMm": 42,
+    "avgHumidity": 93
+  },
+  {
+    "location": "Surat",
+    "year": 2023,
+    "month": 7,
+    "avgTemp": 29.6,
+    "rainfallMm": 248.4,
+    "avgHumidity": 94
+  },
+  {
+    "location": "Surat",
+    "year": 2023,
+    "month": 8,
+    "avgTemp": 28.6,
+    "rainfallMm": 309.6,
+    "avgHumidity": 88
+  },
+  {
+    "location": "Surat",
+    "year": 2023,
+    "month": 9,
+    "avgTemp": 28.3,
+    "rainfallMm": 158.4,
+    "avgHumidity": 95
+  },
+  {
+    "location": "Surat",
+    "year": 2023,
+    "month": 10,
+    "avgTemp": 30.8,
+    "rainfallMm": 34.3,
+    "avgHumidity": 62
+  },
+  {
+    "location": "Surat",
+    "year": 2023,
+    "month": 11,
+    "avgTemp": 24.9,
+    "rainfallMm": 7.9,
+    "avgHumidity": 59
+  },
+  {
+    "location": "Surat",
+    "year": 2023,
+    "month": 12,
+    "avgTemp": 19.7,
+    "rainfallMm": 1.6,
+    "avgHumidity": 64
+  },
+  {
+    "location": "Surat",
+    "year": 2024,
+    "month": 1,
+    "avgTemp": 19.3,
+    "rainfallMm": 1.1,
+    "avgHumidity": 66
+  },
+  {
+    "location": "Surat",
+    "year": 2024,
+    "month": 2,
+    "avgTemp": 21.1,
+    "rainfallMm": 0.4,
+    "avgHumidity": 66
+  },
+  {
+    "location": "Surat",
+    "year": 2024,
+    "month": 3,
+    "avgTemp": 26.1,
+    "rainfallMm": 1.2,
+    "avgHumidity": 62
+  },
+  {
+    "location": "Surat",
+    "year": 2024,
+    "month": 4,
+    "avgTemp": 32.5,
+    "rainfallMm": 0.6,
+    "avgHumidity": 68
+  },
+  {
+    "location": "Surat",
+    "year": 2024,
+    "month": 5,
+    "avgTemp": 34,
+    "rainfallMm": 2.4,
+    "avgHumidity": 66
+  },
+  {
+    "location": "Surat",
+    "year": 2024,
+    "month": 6,
+    "avgTemp": 33.7,
+    "rainfallMm": 54.6,
+    "avgHumidity": 94
+  },
+  {
+    "location": "Surat",
+    "year": 2024,
+    "month": 7,
+    "avgTemp": 29.5,
+    "rainfallMm": 331.2,
+    "avgHumidity": 97
+  },
+  {
+    "location": "Surat",
+    "year": 2024,
+    "month": 8,
+    "avgTemp": 29.1,
+    "rainfallMm": 206.4,
+    "avgHumidity": 95
+  },
+  {
+    "location": "Surat",
+    "year": 2024,
+    "month": 9,
+    "avgTemp": 28.5,
+    "rainfallMm": 100.8,
+    "avgHumidity": 94
+  },
+  {
+    "location": "Surat",
+    "year": 2024,
+    "month": 10,
+    "avgTemp": 30,
+    "rainfallMm": 15.8,
+    "avgHumidity": 66
+  },
+  {
+    "location": "Surat",
+    "year": 2024,
+    "month": 11,
+    "avgTemp": 25.4,
+    "rainfallMm": 10.1,
+    "avgHumidity": 65
+  },
+  {
+    "location": "Surat",
+    "year": 2024,
+    "month": 12,
+    "avgTemp": 20.5,
+    "rainfallMm": 1.3,
+    "avgHumidity": 65
+  },
+  {
+    "location": "Surat",
+    "year": 2025,
+    "month": 1,
+    "avgTemp": 19.9,
+    "rainfallMm": 1.8,
+    "avgHumidity": 68
+  },
+  {
+    "location": "Surat",
+    "year": 2025,
+    "month": 2,
+    "avgTemp": 22.4,
+    "rainfallMm": 0.4,
+    "avgHumidity": 63
+  },
+  {
+    "location": "Surat",
+    "year": 2025,
+    "month": 3,
+    "avgTemp": 28.9,
+    "rainfallMm": 0.8,
+    "avgHumidity": 64
+  },
+  {
+    "location": "Surat",
+    "year": 2025,
+    "month": 4,
+    "avgTemp": 32.1,
+    "rainfallMm": 0.4,
+    "avgHumidity": 67
+  },
+  {
+    "location": "Surat",
+    "year": 2025,
+    "month": 5,
+    "avgTemp": 34.6,
+    "rainfallMm": 2.6,
+    "avgHumidity": 60
+  },
+  {
+    "location": "Surat",
+    "year": 2025,
+    "month": 6,
+    "avgTemp": 33.9,
+    "rainfallMm": 37.8,
+    "avgHumidity": 89
+  },
+  {
+    "location": "Surat",
+    "year": 2025,
+    "month": 7,
+    "avgTemp": 29.7,
+    "rainfallMm": 386.4,
+    "avgHumidity": 88
+  },
+  {
+    "location": "Surat",
+    "year": 2025,
+    "month": 8,
+    "avgTemp": 27.9,
+    "rainfallMm": 206.4,
+    "avgHumidity": 89
+  },
+  {
+    "location": "Surat",
+    "year": 2025,
+    "month": 9,
+    "avgTemp": 28.6,
+    "rainfallMm": 144,
+    "avgHumidity": 93
+  },
+  {
+    "location": "Surat",
+    "year": 2025,
+    "month": 10,
+    "avgTemp": 28.1,
+    "rainfallMm": 37,
+    "avgHumidity": 59
+  },
+  {
+    "location": "Surat",
+    "year": 2025,
+    "month": 11,
+    "avgTemp": 25.2,
+    "rainfallMm": 7.2,
+    "avgHumidity": 60
+  },
+  {
+    "location": "Surat",
+    "year": 2025,
+    "month": 12,
+    "avgTemp": 19.4,
+    "rainfallMm": 1.1,
+    "avgHumidity": 67
+  },
+  {
+    "location": "Rajkot",
+    "year": 2021,
+    "month": 1,
+    "avgTemp": 21.2,
+    "rainfallMm": 1,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Rajkot",
+    "year": 2021,
+    "month": 2,
+    "avgTemp": 22.1,
+    "rainfallMm": 0.5,
+    "avgHumidity": 45
+  },
+  {
+    "location": "Rajkot",
+    "year": 2021,
+    "month": 3,
+    "avgTemp": 28.7,
+    "rainfallMm": 1,
+    "avgHumidity": 46
+  },
+  {
+    "location": "Rajkot",
+    "year": 2021,
+    "month": 4,
+    "avgTemp": 34.1,
+    "rainfallMm": 0.5,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Rajkot",
+    "year": 2021,
+    "month": 5,
+    "avgTemp": 37.4,
+    "rainfallMm": 1.6,
+    "avgHumidity": 42
+  },
+  {
+    "location": "Rajkot",
+    "year": 2021,
+    "month": 6,
+    "avgTemp": 34.9,
+    "rainfallMm": 44.9,
+    "avgHumidity": 76
+  },
+  {
+    "location": "Rajkot",
+    "year": 2021,
+    "month": 7,
+    "avgTemp": 30.2,
+    "rainfallMm": 295.2,
+    "avgHumidity": 75
+  },
+  {
+    "location": "Rajkot",
+    "year": 2021,
+    "month": 8,
+    "avgTemp": 28.2,
+    "rainfallMm": 197.1,
+    "avgHumidity": 78
+  },
+  {
+    "location": "Rajkot",
+    "year": 2021,
+    "month": 9,
+    "avgTemp": 29.3,
+    "rainfallMm": 66,
+    "avgHumidity": 70
+  },
+  {
+    "location": "Rajkot",
+    "year": 2021,
+    "month": 10,
+    "avgTemp": 29.5,
+    "rainfallMm": 18.1,
+    "avgHumidity": 42
+  },
+  {
+    "location": "Rajkot",
+    "year": 2021,
+    "month": 11,
+    "avgTemp": 24.9,
+    "rainfallMm": 5,
+    "avgHumidity": 51
+  },
+  {
+    "location": "Rajkot",
+    "year": 2021,
+    "month": 12,
+    "avgTemp": 19.8,
+    "rainfallMm": 0.8,
+    "avgHumidity": 51
+  },
+  {
+    "location": "Rajkot",
+    "year": 2022,
+    "month": 1,
+    "avgTemp": 18.7,
+    "rainfallMm": 1.2,
+    "avgHumidity": 46
+  },
+  {
+    "location": "Rajkot",
+    "year": 2022,
+    "month": 2,
+    "avgTemp": 23.4,
+    "rainfallMm": 0.3,
+    "avgHumidity": 47
+  },
+  {
+    "location": "Rajkot",
+    "year": 2022,
+    "month": 3,
+    "avgTemp": 27.1,
+    "rainfallMm": 0.6,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Rajkot",
+    "year": 2022,
+    "month": 4,
+    "avgTemp": 34.3,
+    "rainfallMm": 0.3,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Rajkot",
+    "year": 2022,
+    "month": 5,
+    "avgTemp": 35.2,
+    "rainfallMm": 1.8,
+    "avgHumidity": 51
+  },
+  {
+    "location": "Rajkot",
+    "year": 2022,
+    "month": 6,
+    "avgTemp": 34.1,
+    "rainfallMm": 25.7,
+    "avgHumidity": 76
+  },
+  {
+    "location": "Rajkot",
+    "year": 2022,
+    "month": 7,
+    "avgTemp": 30.2,
+    "rainfallMm": 210.8,
+    "avgHumidity": 76
+  },
+  {
+    "location": "Rajkot",
+    "year": 2022,
+    "month": 8,
+    "avgTemp": 30.3,
+    "rainfallMm": 197.1,
+    "avgHumidity": 79
+  },
+  {
+    "location": "Rajkot",
+    "year": 2022,
+    "month": 9,
+    "avgTemp": 29,
+    "rainfallMm": 143,
+    "avgHumidity": 72
+  },
+  {
+    "location": "Rajkot",
+    "year": 2022,
+    "month": 10,
+    "avgTemp": 31.5,
+    "rainfallMm": 20.2,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Rajkot",
+    "year": 2022,
+    "month": 11,
+    "avgTemp": 26.3,
+    "rainfallMm": 4.4,
+    "avgHumidity": 43
+  },
+  {
+    "location": "Rajkot",
+    "year": 2022,
+    "month": 12,
+    "avgTemp": 20.7,
+    "rainfallMm": 0.7,
+    "avgHumidity": 42
+  },
+  {
+    "location": "Rajkot",
+    "year": 2023,
+    "month": 1,
+    "avgTemp": 19.2,
+    "rainfallMm": 0.8,
+    "avgHumidity": 46
+  },
+  {
+    "location": "Rajkot",
+    "year": 2023,
+    "month": 2,
+    "avgTemp": 22.6,
+    "rainfallMm": 0.4,
+    "avgHumidity": 42
+  },
+  {
+    "location": "Rajkot",
+    "year": 2023,
+    "month": 3,
+    "avgTemp": 27.3,
+    "rainfallMm": 1.1,
+    "avgHumidity": 51
+  },
+  {
+    "location": "Rajkot",
+    "year": 2023,
+    "month": 4,
+    "avgTemp": 31.8,
+    "rainfallMm": 0.3,
+    "avgHumidity": 46
+  },
+  {
+    "location": "Rajkot",
+    "year": 2023,
+    "month": 5,
+    "avgTemp": 34.7,
+    "rainfallMm": 2.8,
+    "avgHumidity": 47
+  },
+  {
+    "location": "Rajkot",
+    "year": 2023,
+    "month": 6,
+    "avgTemp": 33.9,
+    "rainfallMm": 44.9,
+    "avgHumidity": 79
+  },
+  {
+    "location": "Rajkot",
+    "year": 2023,
+    "month": 7,
+    "avgTemp": 30.9,
+    "rainfallMm": 316.3,
+    "avgHumidity": 72
+  },
+  {
+    "location": "Rajkot",
+    "year": 2023,
+    "month": 8,
+    "avgTemp": 28.7,
+    "rainfallMm": 118.3,
+    "avgHumidity": 75
+  },
+  {
+    "location": "Rajkot",
+    "year": 2023,
+    "month": 9,
+    "avgTemp": 29.1,
+    "rainfallMm": 88,
+    "avgHumidity": 73
+  },
+  {
+    "location": "Rajkot",
+    "year": 2023,
+    "month": 10,
+    "avgTemp": 30.9,
+    "rainfallMm": 30.3,
+    "avgHumidity": 51
+  },
+  {
+    "location": "Rajkot",
+    "year": 2023,
+    "month": 11,
+    "avgTemp": 27.5,
+    "rainfallMm": 7.2,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Rajkot",
+    "year": 2023,
+    "month": 12,
+    "avgTemp": 19.8,
+    "rainfallMm": 1.3,
+    "avgHumidity": 44
+  },
+  {
+    "location": "Rajkot",
+    "year": 2024,
+    "month": 1,
+    "avgTemp": 21.4,
+    "rainfallMm": 0.6,
+    "avgHumidity": 45
+  },
+  {
+    "location": "Rajkot",
+    "year": 2024,
+    "month": 2,
+    "avgTemp": 23.9,
+    "rainfallMm": 0.4,
+    "avgHumidity": 45
+  },
+  {
+    "location": "Rajkot",
+    "year": 2024,
+    "month": 3,
+    "avgTemp": 28.8,
+    "rainfallMm": 0.9,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Rajkot",
+    "year": 2024,
+    "month": 4,
+    "avgTemp": 33.3,
+    "rainfallMm": 0.5,
+    "avgHumidity": 47
+  },
+  {
+    "location": "Rajkot",
+    "year": 2024,
+    "month": 5,
+    "avgTemp": 34.7,
+    "rainfallMm": 1.1,
+    "avgHumidity": 51
+  },
+  {
+    "location": "Rajkot",
+    "year": 2024,
+    "month": 6,
+    "avgTemp": 35.7,
+    "rainfallMm": 32.1,
+    "avgHumidity": 80
+  },
+  {
+    "location": "Rajkot",
+    "year": 2024,
+    "month": 7,
+    "avgTemp": 31.1,
+    "rainfallMm": 253,
+    "avgHumidity": 79
+  },
+  {
+    "location": "Rajkot",
+    "year": 2024,
+    "month": 8,
+    "avgTemp": 30.1,
+    "rainfallMm": 197.1,
+    "avgHumidity": 74
+  },
+  {
+    "location": "Rajkot",
+    "year": 2024,
+    "month": 9,
+    "avgTemp": 30.2,
+    "rainfallMm": 88,
+    "avgHumidity": 78
+  },
+  {
+    "location": "Rajkot",
+    "year": 2024,
+    "month": 10,
+    "avgTemp": 29.7,
+    "rainfallMm": 12.1,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Rajkot",
+    "year": 2024,
+    "month": 11,
+    "avgTemp": 25.9,
+    "rainfallMm": 6.6,
+    "avgHumidity": 45
+  },
+  {
+    "location": "Rajkot",
+    "year": 2024,
+    "month": 12,
+    "avgTemp": 22.5,
+    "rainfallMm": 0.8,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Rajkot",
+    "year": 2025,
+    "month": 1,
+    "avgTemp": 20.5,
+    "rainfallMm": 1.2,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Rajkot",
+    "year": 2025,
+    "month": 2,
+    "avgTemp": 22.4,
+    "rainfallMm": 0.4,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Rajkot",
+    "year": 2025,
+    "month": 3,
+    "avgTemp": 28.3,
+    "rainfallMm": 1,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Rajkot",
+    "year": 2025,
+    "month": 4,
+    "avgTemp": 34.2,
+    "rainfallMm": 0.4,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Rajkot",
+    "year": 2025,
+    "month": 5,
+    "avgTemp": 35.4,
+    "rainfallMm": 2.2,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Rajkot",
+    "year": 2025,
+    "month": 6,
+    "avgTemp": 36.5,
+    "rainfallMm": 28.9,
+    "avgHumidity": 75
+  },
+  {
+    "location": "Rajkot",
+    "year": 2025,
+    "month": 7,
+    "avgTemp": 31.1,
+    "rainfallMm": 316.3,
+    "avgHumidity": 73
+  },
+  {
+    "location": "Rajkot",
+    "year": 2025,
+    "month": 8,
+    "avgTemp": 28.9,
+    "rainfallMm": 275.9,
+    "avgHumidity": 73
+  },
+  {
+    "location": "Rajkot",
+    "year": 2025,
+    "month": 9,
+    "avgTemp": 30.7,
+    "rainfallMm": 110,
+    "avgHumidity": 79
+  },
+  {
+    "location": "Rajkot",
+    "year": 2025,
+    "month": 10,
+    "avgTemp": 29.7,
+    "rainfallMm": 12.1,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Rajkot",
+    "year": 2025,
+    "month": 11,
+    "avgTemp": 26.5,
+    "rainfallMm": 7.7,
+    "avgHumidity": 47
+  },
+  {
+    "location": "Rajkot",
+    "year": 2025,
+    "month": 12,
+    "avgTemp": 22,
+    "rainfallMm": 1.3,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Vadodara",
+    "year": 2021,
+    "month": 1,
+    "avgTemp": 20.2,
+    "rainfallMm": 1.3,
+    "avgHumidity": 51
+  },
+  {
+    "location": "Vadodara",
+    "year": 2021,
+    "month": 2,
+    "avgTemp": 23.1,
+    "rainfallMm": 0.4,
+    "avgHumidity": 53
+  },
+  {
+    "location": "Vadodara",
+    "year": 2021,
+    "month": 3,
+    "avgTemp": 26.9,
+    "rainfallMm": 0.9,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Vadodara",
+    "year": 2021,
+    "month": 4,
+    "avgTemp": 33.1,
+    "rainfallMm": 0.7,
+    "avgHumidity": 53
+  },
+  {
+    "location": "Vadodara",
+    "year": 2021,
+    "month": 5,
+    "avgTemp": 35.1,
+    "rainfallMm": 1.2,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Vadodara",
+    "year": 2021,
+    "month": 6,
+    "avgTemp": 33.8,
+    "rainfallMm": 47,
+    "avgHumidity": 80
+  },
+  {
+    "location": "Vadodara",
+    "year": 2021,
+    "month": 7,
+    "avgTemp": 31.2,
+    "rainfallMm": 166.4,
+    "avgHumidity": 85
+  },
+  {
+    "location": "Vadodara",
+    "year": 2021,
+    "month": 8,
+    "avgTemp": 28.1,
+    "rainfallMm": 177.7,
+    "avgHumidity": 86
+  },
+  {
+    "location": "Vadodara",
+    "year": 2021,
+    "month": 9,
+    "avgTemp": 30.2,
+    "rainfallMm": 161.2,
+    "avgHumidity": 78
+  },
+  {
+    "location": "Vadodara",
+    "year": 2021,
+    "month": 10,
+    "avgTemp": 29.5,
+    "rainfallMm": 25,
+    "avgHumidity": 58
+  },
+  {
+    "location": "Vadodara",
+    "year": 2021,
+    "month": 11,
+    "avgTemp": 25.1,
+    "rainfallMm": 6.2,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Vadodara",
+    "year": 2021,
+    "month": 12,
+    "avgTemp": 22.1,
+    "rainfallMm": 0.7,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Vadodara",
+    "year": 2022,
+    "month": 1,
+    "avgTemp": 20.7,
+    "rainfallMm": 1.6,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Vadodara",
+    "year": 2022,
+    "month": 2,
+    "avgTemp": 24,
+    "rainfallMm": 0.4,
+    "avgHumidity": 58
+  },
+  {
+    "location": "Vadodara",
+    "year": 2022,
+    "month": 3,
+    "avgTemp": 28.9,
+    "rainfallMm": 1.1,
+    "avgHumidity": 57
+  },
+  {
+    "location": "Vadodara",
+    "year": 2022,
+    "month": 4,
+    "avgTemp": 32.4,
+    "rainfallMm": 0.4,
+    "avgHumidity": 53
+  },
+  {
+    "location": "Vadodara",
+    "year": 2022,
+    "month": 5,
+    "avgTemp": 35.2,
+    "rainfallMm": 1.7,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Vadodara",
+    "year": 2022,
+    "month": 6,
+    "avgTemp": 34.6,
+    "rainfallMm": 32.6,
+    "avgHumidity": 85
+  },
+  {
+    "location": "Vadodara",
+    "year": 2022,
+    "month": 7,
+    "avgTemp": 31.8,
+    "rainfallMm": 166.4,
+    "avgHumidity": 82
+  },
+  {
+    "location": "Vadodara",
+    "year": 2022,
+    "month": 8,
+    "avgTemp": 28.3,
+    "rainfallMm": 311,
+    "avgHumidity": 87
+  },
+  {
+    "location": "Vadodara",
+    "year": 2022,
+    "month": 9,
+    "avgTemp": 28.9,
+    "rainfallMm": 99.2,
+    "avgHumidity": 84
+  },
+  {
+    "location": "Vadodara",
+    "year": 2022,
+    "month": 10,
+    "avgTemp": 28.9,
+    "rainfallMm": 31.8,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Vadodara",
+    "year": 2022,
+    "month": 11,
+    "avgTemp": 26.4,
+    "rainfallMm": 8.7,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Vadodara",
+    "year": 2022,
+    "month": 12,
+    "avgTemp": 21.2,
+    "rainfallMm": 1.3,
+    "avgHumidity": 53
+  },
+  {
+    "location": "Vadodara",
+    "year": 2023,
+    "month": 1,
+    "avgTemp": 20.8,
+    "rainfallMm": 0.8,
+    "avgHumidity": 58
+  },
+  {
+    "location": "Vadodara",
+    "year": 2023,
+    "month": 2,
+    "avgTemp": 23.7,
+    "rainfallMm": 0.4,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Vadodara",
+    "year": 2023,
+    "month": 3,
+    "avgTemp": 27.4,
+    "rainfallMm": 1.3,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Vadodara",
+    "year": 2023,
+    "month": 4,
+    "avgTemp": 32,
+    "rainfallMm": 0.6,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Vadodara",
+    "year": 2023,
+    "month": 5,
+    "avgTemp": 35,
+    "rainfallMm": 3.1,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Vadodara",
+    "year": 2023,
+    "month": 6,
+    "avgTemp": 34.2,
+    "rainfallMm": 39.8,
+    "avgHumidity": 82
+  },
+  {
+    "location": "Vadodara",
+    "year": 2023,
+    "month": 7,
+    "avgTemp": 29.5,
+    "rainfallMm": 213.9,
+    "avgHumidity": 83
+  },
+  {
+    "location": "Vadodara",
+    "year": 2023,
+    "month": 8,
+    "avgTemp": 30,
+    "rainfallMm": 266.6,
+    "avgHumidity": 79
+  },
+  {
+    "location": "Vadodara",
+    "year": 2023,
+    "month": 9,
+    "avgTemp": 29.6,
+    "rainfallMm": 74.4,
+    "avgHumidity": 85
+  },
+  {
+    "location": "Vadodara",
+    "year": 2023,
+    "month": 10,
+    "avgTemp": 30.8,
+    "rainfallMm": 18.2,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Vadodara",
+    "year": 2023,
+    "month": 11,
+    "avgTemp": 25.6,
+    "rainfallMm": 5,
+    "avgHumidity": 51
+  },
+  {
+    "location": "Vadodara",
+    "year": 2023,
+    "month": 12,
+    "avgTemp": 20.4,
+    "rainfallMm": 1,
+    "avgHumidity": 59
+  },
+  {
+    "location": "Vadodara",
+    "year": 2024,
+    "month": 1,
+    "avgTemp": 21.4,
+    "rainfallMm": 0.7,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Vadodara",
+    "year": 2024,
+    "month": 2,
+    "avgTemp": 22.9,
+    "rainfallMm": 0.5,
+    "avgHumidity": 51
+  },
+  {
+    "location": "Vadodara",
+    "year": 2024,
+    "month": 3,
+    "avgTemp": 28.9,
+    "rainfallMm": 1.1,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Vadodara",
+    "year": 2024,
+    "month": 4,
+    "avgTemp": 32,
+    "rainfallMm": 0.6,
+    "avgHumidity": 53
+  },
+  {
+    "location": "Vadodara",
+    "year": 2024,
+    "month": 5,
+    "avgTemp": 36.1,
+    "rainfallMm": 2.3,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Vadodara",
+    "year": 2024,
+    "month": 6,
+    "avgTemp": 34.4,
+    "rainfallMm": 25.3,
+    "avgHumidity": 82
+  },
+  {
+    "location": "Vadodara",
+    "year": 2024,
+    "month": 7,
+    "avgTemp": 32.5,
+    "rainfallMm": 213.9,
+    "avgHumidity": 77
+  },
+  {
+    "location": "Vadodara",
+    "year": 2024,
+    "month": 8,
+    "avgTemp": 27.6,
+    "rainfallMm": 244.4,
+    "avgHumidity": 86
+  },
+  {
+    "location": "Vadodara",
+    "year": 2024,
+    "month": 9,
+    "avgTemp": 29.9,
+    "rainfallMm": 161.2,
+    "avgHumidity": 86
+  },
+  {
+    "location": "Vadodara",
+    "year": 2024,
+    "month": 10,
+    "avgTemp": 28.8,
+    "rainfallMm": 18.2,
+    "avgHumidity": 57
+  },
+  {
+    "location": "Vadodara",
+    "year": 2024,
+    "month": 11,
+    "avgTemp": 27.3,
+    "rainfallMm": 6.8,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Vadodara",
+    "year": 2024,
+    "month": 12,
+    "avgTemp": 21.8,
+    "rainfallMm": 1.3,
+    "avgHumidity": 57
+  },
+  {
+    "location": "Vadodara",
+    "year": 2025,
+    "month": 1,
+    "avgTemp": 20.9,
+    "rainfallMm": 1.3,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Vadodara",
+    "year": 2025,
+    "month": 2,
+    "avgTemp": 21.7,
+    "rainfallMm": 0.5,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Vadodara",
+    "year": 2025,
+    "month": 3,
+    "avgTemp": 27.1,
+    "rainfallMm": 1.2,
+    "avgHumidity": 57
+  },
+  {
+    "location": "Vadodara",
+    "year": 2025,
+    "month": 4,
+    "avgTemp": 34.1,
+    "rainfallMm": 0.6,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Vadodara",
+    "year": 2025,
+    "month": 5,
+    "avgTemp": 35.6,
+    "rainfallMm": 2.7,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Vadodara",
+    "year": 2025,
+    "month": 6,
+    "avgTemp": 35,
+    "rainfallMm": 39.8,
+    "avgHumidity": 84
+  },
+  {
+    "location": "Vadodara",
+    "year": 2025,
+    "month": 7,
+    "avgTemp": 31.5,
+    "rainfallMm": 309,
+    "avgHumidity": 84
+  },
+  {
+    "location": "Vadodara",
+    "year": 2025,
+    "month": 8,
+    "avgTemp": 29.4,
+    "rainfallMm": 200,
+    "avgHumidity": 86
+  },
+  {
+    "location": "Vadodara",
+    "year": 2025,
+    "month": 9,
+    "avgTemp": 30.1,
+    "rainfallMm": 186,
+    "avgHumidity": 83
+  },
+  {
+    "location": "Vadodara",
+    "year": 2025,
+    "month": 10,
+    "avgTemp": 30.5,
+    "rainfallMm": 15.9,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Vadodara",
+    "year": 2025,
+    "month": 11,
+    "avgTemp": 25.5,
+    "rainfallMm": 9.3,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Vadodara",
+    "year": 2025,
+    "month": 12,
+    "avgTemp": 21.6,
+    "rainfallMm": 1.1,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2021,
+    "month": 1,
+    "avgTemp": 18.2,
+    "rainfallMm": 1.5,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2021,
+    "month": 2,
+    "avgTemp": 21.7,
+    "rainfallMm": 0.6,
+    "avgHumidity": 61
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2021,
+    "month": 3,
+    "avgTemp": 28.7,
+    "rainfallMm": 1.2,
+    "avgHumidity": 60
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2021,
+    "month": 4,
+    "avgTemp": 31.7,
+    "rainfallMm": 0.6,
+    "avgHumidity": 59
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2021,
+    "month": 5,
+    "avgTemp": 36.7,
+    "rainfallMm": 3,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2021,
+    "month": 6,
+    "avgTemp": 35.4,
+    "rainfallMm": 44.8,
+    "avgHumidity": 88
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2021,
+    "month": 7,
+    "avgTemp": 31.6,
+    "rainfallMm": 269.9,
+    "avgHumidity": 88
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2021,
+    "month": 8,
+    "avgTemp": 28,
+    "rainfallMm": 160.5,
+    "avgHumidity": 83
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2021,
+    "month": 9,
+    "avgTemp": 29,
+    "rainfallMm": 89.6,
+    "avgHumidity": 88
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2021,
+    "month": 10,
+    "avgTemp": 28.6,
+    "rainfallMm": 18.8,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2021,
+    "month": 11,
+    "avgTemp": 26.1,
+    "rainfallMm": 5.1,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2021,
+    "month": 12,
+    "avgTemp": 21.7,
+    "rainfallMm": 1.3,
+    "avgHumidity": 61
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2022,
+    "month": 1,
+    "avgTemp": 18.5,
+    "rainfallMm": 1.1,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2022,
+    "month": 2,
+    "avgTemp": 22,
+    "rainfallMm": 0.4,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2022,
+    "month": 3,
+    "avgTemp": 28.2,
+    "rainfallMm": 1.2,
+    "avgHumidity": 57
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2022,
+    "month": 4,
+    "avgTemp": 32.4,
+    "rainfallMm": 0.7,
+    "avgHumidity": 57
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2022,
+    "month": 5,
+    "avgTemp": 36.1,
+    "rainfallMm": 1.7,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2022,
+    "month": 6,
+    "avgTemp": 34.7,
+    "rainfallMm": 26.1,
+    "avgHumidity": 87
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2022,
+    "month": 7,
+    "avgTemp": 30.7,
+    "rainfallMm": 171.7,
+    "avgHumidity": 86
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2022,
+    "month": 8,
+    "avgTemp": 29.8,
+    "rainfallMm": 252.3,
+    "avgHumidity": 81
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2022,
+    "month": 9,
+    "avgTemp": 29.7,
+    "rainfallMm": 128,
+    "avgHumidity": 82
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2022,
+    "month": 10,
+    "avgTemp": 28,
+    "rainfallMm": 18.8,
+    "avgHumidity": 53
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2022,
+    "month": 11,
+    "avgTemp": 24.7,
+    "rainfallMm": 5.8,
+    "avgHumidity": 61
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2022,
+    "month": 12,
+    "avgTemp": 19.7,
+    "rainfallMm": 1.1,
+    "avgHumidity": 53
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2023,
+    "month": 1,
+    "avgTemp": 19,
+    "rainfallMm": 1.1,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2023,
+    "month": 2,
+    "avgTemp": 23.4,
+    "rainfallMm": 0.6,
+    "avgHumidity": 61
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2023,
+    "month": 3,
+    "avgTemp": 26.7,
+    "rainfallMm": 1.2,
+    "avgHumidity": 61
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2023,
+    "month": 4,
+    "avgTemp": 33.3,
+    "rainfallMm": 0.6,
+    "avgHumidity": 53
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2023,
+    "month": 5,
+    "avgTemp": 36,
+    "rainfallMm": 1.5,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2023,
+    "month": 6,
+    "avgTemp": 34.3,
+    "rainfallMm": 41.1,
+    "avgHumidity": 87
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2023,
+    "month": 7,
+    "avgTemp": 29.8,
+    "rainfallMm": 318.9,
+    "avgHumidity": 87
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2023,
+    "month": 8,
+    "avgTemp": 27.1,
+    "rainfallMm": 160.5,
+    "avgHumidity": 80
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2023,
+    "month": 9,
+    "avgTemp": 30.5,
+    "rainfallMm": 192,
+    "avgHumidity": 87
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2023,
+    "month": 10,
+    "avgTemp": 28.4,
+    "rainfallMm": 32.9,
+    "avgHumidity": 59
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2023,
+    "month": 11,
+    "avgTemp": 26.3,
+    "rainfallMm": 4.5,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2023,
+    "month": 12,
+    "avgTemp": 21.2,
+    "rainfallMm": 1.1,
+    "avgHumidity": 58
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2024,
+    "month": 1,
+    "avgTemp": 18.4,
+    "rainfallMm": 1.1,
+    "avgHumidity": 59
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2024,
+    "month": 2,
+    "avgTemp": 23.6,
+    "rainfallMm": 0.4,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2024,
+    "month": 3,
+    "avgTemp": 26.1,
+    "rainfallMm": 1.4,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2024,
+    "month": 4,
+    "avgTemp": 33.7,
+    "rainfallMm": 0.3,
+    "avgHumidity": 61
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2024,
+    "month": 5,
+    "avgTemp": 36.6,
+    "rainfallMm": 3,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2024,
+    "month": 6,
+    "avgTemp": 35.8,
+    "rainfallMm": 52.3,
+    "avgHumidity": 82
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2024,
+    "month": 7,
+    "avgTemp": 30.7,
+    "rainfallMm": 171.7,
+    "avgHumidity": 82
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2024,
+    "month": 8,
+    "avgTemp": 29.5,
+    "rainfallMm": 275.2,
+    "avgHumidity": 80
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2024,
+    "month": 9,
+    "avgTemp": 29.8,
+    "rainfallMm": 128,
+    "avgHumidity": 86
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2024,
+    "month": 10,
+    "avgTemp": 30,
+    "rainfallMm": 16.4,
+    "avgHumidity": 60
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2024,
+    "month": 11,
+    "avgTemp": 24.7,
+    "rainfallMm": 5.8,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2024,
+    "month": 12,
+    "avgTemp": 21,
+    "rainfallMm": 1.6,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2025,
+    "month": 1,
+    "avgTemp": 20.7,
+    "rainfallMm": 1.4,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2025,
+    "month": 2,
+    "avgTemp": 23.9,
+    "rainfallMm": 0.4,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2025,
+    "month": 3,
+    "avgTemp": 28.1,
+    "rainfallMm": 1,
+    "avgHumidity": 53
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2025,
+    "month": 4,
+    "avgTemp": 33.6,
+    "rainfallMm": 0.4,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2025,
+    "month": 5,
+    "avgTemp": 36.3,
+    "rainfallMm": 1.5,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2025,
+    "month": 6,
+    "avgTemp": 35.5,
+    "rainfallMm": 52.3,
+    "avgHumidity": 87
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2025,
+    "month": 7,
+    "avgTemp": 31.7,
+    "rainfallMm": 318.9,
+    "avgHumidity": 88
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2025,
+    "month": 8,
+    "avgTemp": 29.9,
+    "rainfallMm": 298.1,
+    "avgHumidity": 85
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2025,
+    "month": 9,
+    "avgTemp": 28.9,
+    "rainfallMm": 153.6,
+    "avgHumidity": 81
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2025,
+    "month": 10,
+    "avgTemp": 28,
+    "rainfallMm": 35.2,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2025,
+    "month": 11,
+    "avgTemp": 24.9,
+    "rainfallMm": 7.7,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Bhavnagar",
+    "year": 2025,
+    "month": 12,
+    "avgTemp": 19.4,
+    "rainfallMm": 0.7,
+    "avgHumidity": 58
+  },
+  {
+    "location": "Junagadh",
+    "year": 2021,
+    "month": 1,
+    "avgTemp": 18.7,
+    "rainfallMm": 1.1,
+    "avgHumidity": 63
+  },
+  {
+    "location": "Junagadh",
+    "year": 2021,
+    "month": 2,
+    "avgTemp": 23.6,
+    "rainfallMm": 0.8,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Junagadh",
+    "year": 2021,
+    "month": 3,
+    "avgTemp": 28.9,
+    "rainfallMm": 1.7,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Junagadh",
+    "year": 2021,
+    "month": 4,
+    "avgTemp": 32.6,
+    "rainfallMm": 0.5,
+    "avgHumidity": 61
+  },
+  {
+    "location": "Junagadh",
+    "year": 2021,
+    "month": 5,
+    "avgTemp": 36.3,
+    "rainfallMm": 2.9,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Junagadh",
+    "year": 2021,
+    "month": 6,
+    "avgTemp": 34.8,
+    "rainfallMm": 27,
+    "avgHumidity": 88
+  },
+  {
+    "location": "Junagadh",
+    "year": 2021,
+    "month": 7,
+    "avgTemp": 29.2,
+    "rainfallMm": 278.3,
+    "avgHumidity": 87
+  },
+  {
+    "location": "Junagadh",
+    "year": 2021,
+    "month": 8,
+    "avgTemp": 28.2,
+    "rainfallMm": 307.5,
+    "avgHumidity": 83
+  },
+  {
+    "location": "Junagadh",
+    "year": 2021,
+    "month": 9,
+    "avgTemp": 28.3,
+    "rainfallMm": 79.2,
+    "avgHumidity": 89
+  },
+  {
+    "location": "Junagadh",
+    "year": 2021,
+    "month": 10,
+    "avgTemp": 29,
+    "rainfallMm": 36.3,
+    "avgHumidity": 62
+  },
+  {
+    "location": "Junagadh",
+    "year": 2021,
+    "month": 11,
+    "avgTemp": 25.3,
+    "rainfallMm": 7.9,
+    "avgHumidity": 63
+  },
+  {
+    "location": "Junagadh",
+    "year": 2021,
+    "month": 12,
+    "avgTemp": 19.9,
+    "rainfallMm": 0.9,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Junagadh",
+    "year": 2022,
+    "month": 1,
+    "avgTemp": 20.6,
+    "rainfallMm": 0.9,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Junagadh",
+    "year": 2022,
+    "month": 2,
+    "avgTemp": 22.6,
+    "rainfallMm": 0.7,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Junagadh",
+    "year": 2022,
+    "month": 3,
+    "avgTemp": 28.7,
+    "rainfallMm": 1.4,
+    "avgHumidity": 53
+  },
+  {
+    "location": "Junagadh",
+    "year": 2022,
+    "month": 4,
+    "avgTemp": 33,
+    "rainfallMm": 0.3,
+    "avgHumidity": 62
+  },
+  {
+    "location": "Junagadh",
+    "year": 2022,
+    "month": 5,
+    "avgTemp": 36.7,
+    "rainfallMm": 2.6,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Junagadh",
+    "year": 2022,
+    "month": 6,
+    "avgTemp": 35.8,
+    "rainfallMm": 23.1,
+    "avgHumidity": 86
+  },
+  {
+    "location": "Junagadh",
+    "year": 2022,
+    "month": 7,
+    "avgTemp": 29.1,
+    "rainfallMm": 354.2,
+    "avgHumidity": 85
+  },
+  {
+    "location": "Junagadh",
+    "year": 2022,
+    "month": 8,
+    "avgTemp": 29.5,
+    "rainfallMm": 307.5,
+    "avgHumidity": 88
+  },
+  {
+    "location": "Junagadh",
+    "year": 2022,
+    "month": 9,
+    "avgTemp": 29,
+    "rainfallMm": 118.8,
+    "avgHumidity": 90
+  },
+  {
+    "location": "Junagadh",
+    "year": 2022,
+    "month": 10,
+    "avgTemp": 28.1,
+    "rainfallMm": 16.9,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Junagadh",
+    "year": 2022,
+    "month": 11,
+    "avgTemp": 25.5,
+    "rainfallMm": 9.9,
+    "avgHumidity": 61
+  },
+  {
+    "location": "Junagadh",
+    "year": 2022,
+    "month": 12,
+    "avgTemp": 19.3,
+    "rainfallMm": 1.2,
+    "avgHumidity": 57
+  },
+  {
+    "location": "Junagadh",
+    "year": 2023,
+    "month": 1,
+    "avgTemp": 20,
+    "rainfallMm": 1.5,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Junagadh",
+    "year": 2023,
+    "month": 2,
+    "avgTemp": 23.1,
+    "rainfallMm": 0.8,
+    "avgHumidity": 62
+  },
+  {
+    "location": "Junagadh",
+    "year": 2023,
+    "month": 3,
+    "avgTemp": 28.8,
+    "rainfallMm": 0.9,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Junagadh",
+    "year": 2023,
+    "month": 4,
+    "avgTemp": 33.6,
+    "rainfallMm": 0.6,
+    "avgHumidity": 58
+  },
+  {
+    "location": "Junagadh",
+    "year": 2023,
+    "month": 5,
+    "avgTemp": 34.9,
+    "rainfallMm": 2.6,
+    "avgHumidity": 59
+  },
+  {
+    "location": "Junagadh",
+    "year": 2023,
+    "month": 6,
+    "avgTemp": 35.7,
+    "rainfallMm": 27,
+    "avgHumidity": 85
+  },
+  {
+    "location": "Junagadh",
+    "year": 2023,
+    "month": 7,
+    "avgTemp": 29.3,
+    "rainfallMm": 202.4,
+    "avgHumidity": 85
+  },
+  {
+    "location": "Junagadh",
+    "year": 2023,
+    "month": 8,
+    "avgTemp": 27.5,
+    "rainfallMm": 236.5,
+    "avgHumidity": 86
+  },
+  {
+    "location": "Junagadh",
+    "year": 2023,
+    "month": 9,
+    "avgTemp": 29.1,
+    "rainfallMm": 171.6,
+    "avgHumidity": 86
+  },
+  {
+    "location": "Junagadh",
+    "year": 2023,
+    "month": 10,
+    "avgTemp": 30.6,
+    "rainfallMm": 19.4,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Junagadh",
+    "year": 2023,
+    "month": 11,
+    "avgTemp": 26.3,
+    "rainfallMm": 5.9,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Junagadh",
+    "year": 2023,
+    "month": 12,
+    "avgTemp": 21.8,
+    "rainfallMm": 1.4,
+    "avgHumidity": 62
+  },
+  {
+    "location": "Junagadh",
+    "year": 2024,
+    "month": 1,
+    "avgTemp": 20.8,
+    "rainfallMm": 0.8,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Junagadh",
+    "year": 2024,
+    "month": 2,
+    "avgTemp": 22.2,
+    "rainfallMm": 0.4,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Junagadh",
+    "year": 2024,
+    "month": 3,
+    "avgTemp": 26.2,
+    "rainfallMm": 1.4,
+    "avgHumidity": 62
+  },
+  {
+    "location": "Junagadh",
+    "year": 2024,
+    "month": 4,
+    "avgTemp": 31.5,
+    "rainfallMm": 0.7,
+    "avgHumidity": 59
+  },
+  {
+    "location": "Junagadh",
+    "year": 2024,
+    "month": 5,
+    "avgTemp": 34.2,
+    "rainfallMm": 2.2,
+    "avgHumidity": 61
+  },
+  {
+    "location": "Junagadh",
+    "year": 2024,
+    "month": 6,
+    "avgTemp": 35.2,
+    "rainfallMm": 38.5,
+    "avgHumidity": 88
+  },
+  {
+    "location": "Junagadh",
+    "year": 2024,
+    "month": 7,
+    "avgTemp": 30.3,
+    "rainfallMm": 303.6,
+    "avgHumidity": 84
+  },
+  {
+    "location": "Junagadh",
+    "year": 2024,
+    "month": 8,
+    "avgTemp": 29,
+    "rainfallMm": 189.2,
+    "avgHumidity": 83
+  },
+  {
+    "location": "Junagadh",
+    "year": 2024,
+    "month": 9,
+    "avgTemp": 28,
+    "rainfallMm": 105.6,
+    "avgHumidity": 91
+  },
+  {
+    "location": "Junagadh",
+    "year": 2024,
+    "month": 10,
+    "avgTemp": 29.9,
+    "rainfallMm": 24.2,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Junagadh",
+    "year": 2024,
+    "month": 11,
+    "avgTemp": 24.8,
+    "rainfallMm": 5.3,
+    "avgHumidity": 60
+  },
+  {
+    "location": "Junagadh",
+    "year": 2024,
+    "month": 12,
+    "avgTemp": 19.3,
+    "rainfallMm": 1.5,
+    "avgHumidity": 63
+  },
+  {
+    "location": "Junagadh",
+    "year": 2025,
+    "month": 1,
+    "avgTemp": 18.9,
+    "rainfallMm": 1.2,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Junagadh",
+    "year": 2025,
+    "month": 2,
+    "avgTemp": 22.5,
+    "rainfallMm": 0.6,
+    "avgHumidity": 62
+  },
+  {
+    "location": "Junagadh",
+    "year": 2025,
+    "month": 3,
+    "avgTemp": 26.3,
+    "rainfallMm": 0.9,
+    "avgHumidity": 59
+  },
+  {
+    "location": "Junagadh",
+    "year": 2025,
+    "month": 4,
+    "avgTemp": 32.3,
+    "rainfallMm": 0.7,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Junagadh",
+    "year": 2025,
+    "month": 5,
+    "avgTemp": 34.9,
+    "rainfallMm": 3.1,
+    "avgHumidity": 58
+  },
+  {
+    "location": "Junagadh",
+    "year": 2025,
+    "month": 6,
+    "avgTemp": 33.9,
+    "rainfallMm": 53.9,
+    "avgHumidity": 90
+  },
+  {
+    "location": "Junagadh",
+    "year": 2025,
+    "month": 7,
+    "avgTemp": 31.5,
+    "rainfallMm": 303.6,
+    "avgHumidity": 90
+  },
+  {
+    "location": "Junagadh",
+    "year": 2025,
+    "month": 8,
+    "avgTemp": 27.4,
+    "rainfallMm": 307.5,
+    "avgHumidity": 90
+  },
+  {
+    "location": "Junagadh",
+    "year": 2025,
+    "month": 9,
+    "avgTemp": 29.4,
+    "rainfallMm": 92.4,
+    "avgHumidity": 88
+  },
+  {
+    "location": "Junagadh",
+    "year": 2025,
+    "month": 10,
+    "avgTemp": 29.8,
+    "rainfallMm": 29,
+    "avgHumidity": 60
+  },
+  {
+    "location": "Junagadh",
+    "year": 2025,
+    "month": 11,
+    "avgTemp": 26.7,
+    "rainfallMm": 5.9,
+    "avgHumidity": 62
+  },
+  {
+    "location": "Junagadh",
+    "year": 2025,
+    "month": 12,
+    "avgTemp": 19.2,
+    "rainfallMm": 1,
+    "avgHumidity": 58
+  },
+  {
+    "location": "Mehsana",
+    "year": 2021,
+    "month": 1,
+    "avgTemp": 21.4,
+    "rainfallMm": 1.2,
+    "avgHumidity": 44
+  },
+  {
+    "location": "Mehsana",
+    "year": 2021,
+    "month": 2,
+    "avgTemp": 24.3,
+    "rainfallMm": 0.5,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Mehsana",
+    "year": 2021,
+    "month": 3,
+    "avgTemp": 28.2,
+    "rainfallMm": 0.9,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Mehsana",
+    "year": 2021,
+    "month": 4,
+    "avgTemp": 33.9,
+    "rainfallMm": 0.4,
+    "avgHumidity": 42
+  },
+  {
+    "location": "Mehsana",
+    "year": 2021,
+    "month": 5,
+    "avgTemp": 36.4,
+    "rainfallMm": 1.2,
+    "avgHumidity": 47
+  },
+  {
+    "location": "Mehsana",
+    "year": 2021,
+    "month": 6,
+    "avgTemp": 35.7,
+    "rainfallMm": 27.3,
+    "avgHumidity": 77
+  },
+  {
+    "location": "Mehsana",
+    "year": 2021,
+    "month": 7,
+    "avgTemp": 31.7,
+    "rainfallMm": 199.3,
+    "avgHumidity": 72
+  },
+  {
+    "location": "Mehsana",
+    "year": 2021,
+    "month": 8,
+    "avgTemp": 30.4,
+    "rainfallMm": 130.4,
+    "avgHumidity": 75
+  },
+  {
+    "location": "Mehsana",
+    "year": 2021,
+    "month": 9,
+    "avgTemp": 29.8,
+    "rainfallMm": 72.8,
+    "avgHumidity": 73
+  },
+  {
+    "location": "Mehsana",
+    "year": 2021,
+    "month": 10,
+    "avgTemp": 30.4,
+    "rainfallMm": 24.8,
+    "avgHumidity": 43
+  },
+  {
+    "location": "Mehsana",
+    "year": 2021,
+    "month": 11,
+    "avgTemp": 25.6,
+    "rainfallMm": 4.2,
+    "avgHumidity": 46
+  },
+  {
+    "location": "Mehsana",
+    "year": 2021,
+    "month": 12,
+    "avgTemp": 21.2,
+    "rainfallMm": 1,
+    "avgHumidity": 46
+  },
+  {
+    "location": "Mehsana",
+    "year": 2022,
+    "month": 1,
+    "avgTemp": 18.7,
+    "rainfallMm": 0.5,
+    "avgHumidity": 41
+  },
+  {
+    "location": "Mehsana",
+    "year": 2022,
+    "month": 2,
+    "avgTemp": 21.9,
+    "rainfallMm": 0.4,
+    "avgHumidity": 46
+  },
+  {
+    "location": "Mehsana",
+    "year": 2022,
+    "month": 3,
+    "avgTemp": 29.3,
+    "rainfallMm": 1.1,
+    "avgHumidity": 39
+  },
+  {
+    "location": "Mehsana",
+    "year": 2022,
+    "month": 4,
+    "avgTemp": 34.2,
+    "rainfallMm": 0.4,
+    "avgHumidity": 39
+  },
+  {
+    "location": "Mehsana",
+    "year": 2022,
+    "month": 5,
+    "avgTemp": 36.4,
+    "rainfallMm": 2.4,
+    "avgHumidity": 45
+  },
+  {
+    "location": "Mehsana",
+    "year": 2022,
+    "month": 6,
+    "avgTemp": 35.1,
+    "rainfallMm": 18.2,
+    "avgHumidity": 70
+  },
+  {
+    "location": "Mehsana",
+    "year": 2022,
+    "month": 7,
+    "avgTemp": 30.7,
+    "rainfallMm": 159.5,
+    "avgHumidity": 74
+  },
+  {
+    "location": "Mehsana",
+    "year": 2022,
+    "month": 8,
+    "avgTemp": 30.1,
+    "rainfallMm": 149.1,
+    "avgHumidity": 73
+  },
+  {
+    "location": "Mehsana",
+    "year": 2022,
+    "month": 9,
+    "avgTemp": 30,
+    "rainfallMm": 145.6,
+    "avgHumidity": 67
+  },
+  {
+    "location": "Mehsana",
+    "year": 2022,
+    "month": 10,
+    "avgTemp": 31,
+    "rainfallMm": 22.9,
+    "avgHumidity": 39
+  },
+  {
+    "location": "Mehsana",
+    "year": 2022,
+    "month": 11,
+    "avgTemp": 24.5,
+    "rainfallMm": 5.2,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Mehsana",
+    "year": 2022,
+    "month": 12,
+    "avgTemp": 20.2,
+    "rainfallMm": 1.1,
+    "avgHumidity": 44
+  },
+  {
+    "location": "Mehsana",
+    "year": 2023,
+    "month": 1,
+    "avgTemp": 20.1,
+    "rainfallMm": 1,
+    "avgHumidity": 46
+  },
+  {
+    "location": "Mehsana",
+    "year": 2023,
+    "month": 2,
+    "avgTemp": 23.5,
+    "rainfallMm": 0.6,
+    "avgHumidity": 47
+  },
+  {
+    "location": "Mehsana",
+    "year": 2023,
+    "month": 3,
+    "avgTemp": 27.3,
+    "rainfallMm": 1,
+    "avgHumidity": 40
+  },
+  {
+    "location": "Mehsana",
+    "year": 2023,
+    "month": 4,
+    "avgTemp": 32.3,
+    "rainfallMm": 0.6,
+    "avgHumidity": 45
+  },
+  {
+    "location": "Mehsana",
+    "year": 2023,
+    "month": 5,
+    "avgTemp": 35.2,
+    "rainfallMm": 1,
+    "avgHumidity": 46
+  },
+  {
+    "location": "Mehsana",
+    "year": 2023,
+    "month": 6,
+    "avgTemp": 34.7,
+    "rainfallMm": 27.3,
+    "avgHumidity": 73
+  },
+  {
+    "location": "Mehsana",
+    "year": 2023,
+    "month": 7,
+    "avgTemp": 29.8,
+    "rainfallMm": 219.3,
+    "avgHumidity": 74
+  },
+  {
+    "location": "Mehsana",
+    "year": 2023,
+    "month": 8,
+    "avgTemp": 28,
+    "rainfallMm": 130.4,
+    "avgHumidity": 75
+  },
+  {
+    "location": "Mehsana",
+    "year": 2023,
+    "month": 9,
+    "avgTemp": 29.8,
+    "rainfallMm": 135.2,
+    "avgHumidity": 73
+  },
+  {
+    "location": "Mehsana",
+    "year": 2023,
+    "month": 10,
+    "avgTemp": 28.6,
+    "rainfallMm": 13.3,
+    "avgHumidity": 46
+  },
+  {
+    "location": "Mehsana",
+    "year": 2023,
+    "month": 11,
+    "avgTemp": 25.2,
+    "rainfallMm": 7.3,
+    "avgHumidity": 42
+  },
+  {
+    "location": "Mehsana",
+    "year": 2023,
+    "month": 12,
+    "avgTemp": 21.3,
+    "rainfallMm": 1,
+    "avgHumidity": 40
+  },
+  {
+    "location": "Mehsana",
+    "year": 2024,
+    "month": 1,
+    "avgTemp": 20.7,
+    "rainfallMm": 1,
+    "avgHumidity": 47
+  },
+  {
+    "location": "Mehsana",
+    "year": 2024,
+    "month": 2,
+    "avgTemp": 22.6,
+    "rainfallMm": 0.6,
+    "avgHumidity": 46
+  },
+  {
+    "location": "Mehsana",
+    "year": 2024,
+    "month": 3,
+    "avgTemp": 28.3,
+    "rainfallMm": 1.3,
+    "avgHumidity": 41
+  },
+  {
+    "location": "Mehsana",
+    "year": 2024,
+    "month": 4,
+    "avgTemp": 34,
+    "rainfallMm": 0.3,
+    "avgHumidity": 45
+  },
+  {
+    "location": "Mehsana",
+    "year": 2024,
+    "month": 5,
+    "avgTemp": 36,
+    "rainfallMm": 1.9,
+    "avgHumidity": 44
+  },
+  {
+    "location": "Mehsana",
+    "year": 2024,
+    "month": 6,
+    "avgTemp": 36.3,
+    "rainfallMm": 33.4,
+    "avgHumidity": 76
+  },
+  {
+    "location": "Mehsana",
+    "year": 2024,
+    "month": 7,
+    "avgTemp": 32.4,
+    "rainfallMm": 219.3,
+    "avgHumidity": 69
+  },
+  {
+    "location": "Mehsana",
+    "year": 2024,
+    "month": 8,
+    "avgTemp": 27.7,
+    "rainfallMm": 205,
+    "avgHumidity": 70
+  },
+  {
+    "location": "Mehsana",
+    "year": 2024,
+    "month": 9,
+    "avgTemp": 30.3,
+    "rainfallMm": 135.2,
+    "avgHumidity": 73
+  },
+  {
+    "location": "Mehsana",
+    "year": 2024,
+    "month": 10,
+    "avgTemp": 29.5,
+    "rainfallMm": 21,
+    "avgHumidity": 42
+  },
+  {
+    "location": "Mehsana",
+    "year": 2024,
+    "month": 11,
+    "avgTemp": 25.8,
+    "rainfallMm": 4.2,
+    "avgHumidity": 43
+  },
+  {
+    "location": "Mehsana",
+    "year": 2024,
+    "month": 12,
+    "avgTemp": 22.2,
+    "rainfallMm": 0.8,
+    "avgHumidity": 39
+  },
+  {
+    "location": "Mehsana",
+    "year": 2025,
+    "month": 1,
+    "avgTemp": 19.9,
+    "rainfallMm": 0.5,
+    "avgHumidity": 41
+  },
+  {
+    "location": "Mehsana",
+    "year": 2025,
+    "month": 2,
+    "avgTemp": 22.3,
+    "rainfallMm": 0.4,
+    "avgHumidity": 45
+  },
+  {
+    "location": "Mehsana",
+    "year": 2025,
+    "month": 3,
+    "avgTemp": 27.9,
+    "rainfallMm": 1.1,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Mehsana",
+    "year": 2025,
+    "month": 4,
+    "avgTemp": 34.4,
+    "rainfallMm": 0.5,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Mehsana",
+    "year": 2025,
+    "month": 5,
+    "avgTemp": 34.9,
+    "rainfallMm": 1.9,
+    "avgHumidity": 40
+  },
+  {
+    "location": "Mehsana",
+    "year": 2025,
+    "month": 6,
+    "avgTemp": 33.6,
+    "rainfallMm": 21.2,
+    "avgHumidity": 76
+  },
+  {
+    "location": "Mehsana",
+    "year": 2025,
+    "month": 7,
+    "avgTemp": 31.1,
+    "rainfallMm": 139.5,
+    "avgHumidity": 75
+  },
+  {
+    "location": "Mehsana",
+    "year": 2025,
+    "month": 8,
+    "avgTemp": 30.5,
+    "rainfallMm": 149.1,
+    "avgHumidity": 67
+  },
+  {
+    "location": "Mehsana",
+    "year": 2025,
+    "month": 9,
+    "avgTemp": 28.8,
+    "rainfallMm": 83.2,
+    "avgHumidity": 67
+  },
+  {
+    "location": "Mehsana",
+    "year": 2025,
+    "month": 10,
+    "avgTemp": 31.1,
+    "rainfallMm": 15.3,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Mehsana",
+    "year": 2025,
+    "month": 11,
+    "avgTemp": 25,
+    "rainfallMm": 6.2,
+    "avgHumidity": 43
+  },
+  {
+    "location": "Mehsana",
+    "year": 2025,
+    "month": 12,
+    "avgTemp": 20.8,
+    "rainfallMm": 0.6,
+    "avgHumidity": 40
+  },
+  {
+    "location": "Anand",
+    "year": 2021,
+    "month": 1,
+    "avgTemp": 19,
+    "rainfallMm": 1.2,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Anand",
+    "year": 2021,
+    "month": 2,
+    "avgTemp": 23.3,
+    "rainfallMm": 0.5,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Anand",
+    "year": 2021,
+    "month": 3,
+    "avgTemp": 27.5,
+    "rainfallMm": 1.1,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Anand",
+    "year": 2021,
+    "month": 4,
+    "avgTemp": 34.2,
+    "rainfallMm": 0.5,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Anand",
+    "year": 2021,
+    "month": 5,
+    "avgTemp": 35.1,
+    "rainfallMm": 2.8,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Anand",
+    "year": 2021,
+    "month": 6,
+    "avgTemp": 35.8,
+    "rainfallMm": 49,
+    "avgHumidity": 78
+  },
+  {
+    "location": "Anand",
+    "year": 2021,
+    "month": 7,
+    "avgTemp": 30.4,
+    "rainfallMm": 138,
+    "avgHumidity": 75
+  },
+  {
+    "location": "Anand",
+    "year": 2021,
+    "month": 8,
+    "avgTemp": 29.8,
+    "rainfallMm": 279.5,
+    "avgHumidity": 77
+  },
+  {
+    "location": "Anand",
+    "year": 2021,
+    "month": 9,
+    "avgTemp": 29.1,
+    "rainfallMm": 120,
+    "avgHumidity": 84
+  },
+  {
+    "location": "Anand",
+    "year": 2021,
+    "month": 10,
+    "avgTemp": 28.6,
+    "rainfallMm": 26.4,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Anand",
+    "year": 2021,
+    "month": 11,
+    "avgTemp": 26.1,
+    "rainfallMm": 7.2,
+    "avgHumidity": 53
+  },
+  {
+    "location": "Anand",
+    "year": 2021,
+    "month": 12,
+    "avgTemp": 20.5,
+    "rainfallMm": 1.2,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Anand",
+    "year": 2022,
+    "month": 1,
+    "avgTemp": 19.4,
+    "rainfallMm": 1.3,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Anand",
+    "year": 2022,
+    "month": 2,
+    "avgTemp": 24,
+    "rainfallMm": 0.7,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Anand",
+    "year": 2022,
+    "month": 3,
+    "avgTemp": 29.5,
+    "rainfallMm": 1.2,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Anand",
+    "year": 2022,
+    "month": 4,
+    "avgTemp": 34,
+    "rainfallMm": 0.5,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Anand",
+    "year": 2022,
+    "month": 5,
+    "avgTemp": 36.4,
+    "rainfallMm": 2.4,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Anand",
+    "year": 2022,
+    "month": 6,
+    "avgTemp": 33.8,
+    "rainfallMm": 49,
+    "avgHumidity": 82
+  },
+  {
+    "location": "Anand",
+    "year": 2022,
+    "month": 7,
+    "avgTemp": 32.3,
+    "rainfallMm": 322,
+    "avgHumidity": 75
+  },
+  {
+    "location": "Anand",
+    "year": 2022,
+    "month": 8,
+    "avgTemp": 28.9,
+    "rainfallMm": 193.5,
+    "avgHumidity": 76
+  },
+  {
+    "location": "Anand",
+    "year": 2022,
+    "month": 9,
+    "avgTemp": 28.7,
+    "rainfallMm": 168,
+    "avgHumidity": 84
+  },
+  {
+    "location": "Anand",
+    "year": 2022,
+    "month": 10,
+    "avgTemp": 30.5,
+    "rainfallMm": 28.6,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Anand",
+    "year": 2022,
+    "month": 11,
+    "avgTemp": 27.1,
+    "rainfallMm": 4.8,
+    "avgHumidity": 51
+  },
+  {
+    "location": "Anand",
+    "year": 2022,
+    "month": 12,
+    "avgTemp": 22.3,
+    "rainfallMm": 1.1,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Anand",
+    "year": 2023,
+    "month": 1,
+    "avgTemp": 21.2,
+    "rainfallMm": 0.7,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Anand",
+    "year": 2023,
+    "month": 2,
+    "avgTemp": 24,
+    "rainfallMm": 0.5,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Anand",
+    "year": 2023,
+    "month": 3,
+    "avgTemp": 28.7,
+    "rainfallMm": 1.1,
+    "avgHumidity": 51
+  },
+  {
+    "location": "Anand",
+    "year": 2023,
+    "month": 4,
+    "avgTemp": 33.7,
+    "rainfallMm": 0.6,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Anand",
+    "year": 2023,
+    "month": 5,
+    "avgTemp": 36.4,
+    "rainfallMm": 1.4,
+    "avgHumidity": 50
+  },
+  {
+    "location": "Anand",
+    "year": 2023,
+    "month": 6,
+    "avgTemp": 35.2,
+    "rainfallMm": 35,
+    "avgHumidity": 82
+  },
+  {
+    "location": "Anand",
+    "year": 2023,
+    "month": 7,
+    "avgTemp": 31.7,
+    "rainfallMm": 184,
+    "avgHumidity": 84
+  },
+  {
+    "location": "Anand",
+    "year": 2023,
+    "month": 8,
+    "avgTemp": 30.3,
+    "rainfallMm": 172,
+    "avgHumidity": 84
+  },
+  {
+    "location": "Anand",
+    "year": 2023,
+    "month": 9,
+    "avgTemp": 30.9,
+    "rainfallMm": 156,
+    "avgHumidity": 80
+  },
+  {
+    "location": "Anand",
+    "year": 2023,
+    "month": 10,
+    "avgTemp": 30,
+    "rainfallMm": 28.6,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Anand",
+    "year": 2023,
+    "month": 11,
+    "avgTemp": 26.5,
+    "rainfallMm": 7.8,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Anand",
+    "year": 2023,
+    "month": 12,
+    "avgTemp": 21,
+    "rainfallMm": 1.1,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Anand",
+    "year": 2024,
+    "month": 1,
+    "avgTemp": 19.9,
+    "rainfallMm": 1.2,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Anand",
+    "year": 2024,
+    "month": 2,
+    "avgTemp": 24.2,
+    "rainfallMm": 0.6,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Anand",
+    "year": 2024,
+    "month": 3,
+    "avgTemp": 27.9,
+    "rainfallMm": 0.7,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Anand",
+    "year": 2024,
+    "month": 4,
+    "avgTemp": 33.6,
+    "rainfallMm": 0.5,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Anand",
+    "year": 2024,
+    "month": 5,
+    "avgTemp": 37,
+    "rainfallMm": 1.8,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Anand",
+    "year": 2024,
+    "month": 6,
+    "avgTemp": 34.9,
+    "rainfallMm": 45.5,
+    "avgHumidity": 76
+  },
+  {
+    "location": "Anand",
+    "year": 2024,
+    "month": 7,
+    "avgTemp": 30.9,
+    "rainfallMm": 161,
+    "avgHumidity": 77
+  },
+  {
+    "location": "Anand",
+    "year": 2024,
+    "month": 8,
+    "avgTemp": 29.1,
+    "rainfallMm": 279.5,
+    "avgHumidity": 77
+  },
+  {
+    "location": "Anand",
+    "year": 2024,
+    "month": 9,
+    "avgTemp": 29.8,
+    "rainfallMm": 84,
+    "avgHumidity": 85
+  },
+  {
+    "location": "Anand",
+    "year": 2024,
+    "month": 10,
+    "avgTemp": 30.1,
+    "rainfallMm": 15.4,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Anand",
+    "year": 2024,
+    "month": 11,
+    "avgTemp": 26.1,
+    "rainfallMm": 4.2,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Anand",
+    "year": 2024,
+    "month": 12,
+    "avgTemp": 19.8,
+    "rainfallMm": 0.7,
+    "avgHumidity": 55
+  },
+  {
+    "location": "Anand",
+    "year": 2025,
+    "month": 1,
+    "avgTemp": 20.8,
+    "rainfallMm": 1.5,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Anand",
+    "year": 2025,
+    "month": 2,
+    "avgTemp": 23.2,
+    "rainfallMm": 0.5,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Anand",
+    "year": 2025,
+    "month": 3,
+    "avgTemp": 27.1,
+    "rainfallMm": 1,
+    "avgHumidity": 49
+  },
+  {
+    "location": "Anand",
+    "year": 2025,
+    "month": 4,
+    "avgTemp": 32.2,
+    "rainfallMm": 0.6,
+    "avgHumidity": 56
+  },
+  {
+    "location": "Anand",
+    "year": 2025,
+    "month": 5,
+    "avgTemp": 36.8,
+    "rainfallMm": 2.2,
+    "avgHumidity": 48
+  },
+  {
+    "location": "Anand",
+    "year": 2025,
+    "month": 6,
+    "avgTemp": 34.9,
+    "rainfallMm": 42,
+    "avgHumidity": 80
+  },
+  {
+    "location": "Anand",
+    "year": 2025,
+    "month": 7,
+    "avgTemp": 30.3,
+    "rainfallMm": 345,
+    "avgHumidity": 81
+  },
+  {
+    "location": "Anand",
+    "year": 2025,
+    "month": 8,
+    "avgTemp": 29.8,
+    "rainfallMm": 129,
+    "avgHumidity": 80
+  },
+  {
+    "location": "Anand",
+    "year": 2025,
+    "month": 9,
+    "avgTemp": 30.7,
+    "rainfallMm": 132,
+    "avgHumidity": 83
+  },
+  {
+    "location": "Anand",
+    "year": 2025,
+    "month": 10,
+    "avgTemp": 31,
+    "rainfallMm": 22,
+    "avgHumidity": 54
+  },
+  {
+    "location": "Anand",
+    "year": 2025,
+    "month": 11,
+    "avgTemp": 26.3,
+    "rainfallMm": 7.2,
+    "avgHumidity": 52
+  },
+  {
+    "location": "Anand",
+    "year": 2025,
+    "month": 12,
+    "avgTemp": 22.2,
+    "rainfallMm": 1.3,
+    "avgHumidity": 57
+  }
+]

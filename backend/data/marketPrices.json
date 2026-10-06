@@ -1,0 +1,272 @@
+[
+  {
+    "crop": "cotton",
+    "market": "Ahmedabad",
+    "date": "2026-10-03",
+    "minPrice": 7100,
+    "maxPrice": 7100,
+    "modalPrice": 7100,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "cotton",
+    "market": "Rajkot",
+    "date": "2026-10-03",
+    "minPrice": 6390,
+    "maxPrice": 7100,
+    "modalPrice": 7100,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "cotton",
+    "market": "Mehsana",
+    "date": "2026-10-03",
+    "minPrice": 7100,
+    "maxPrice": 7810,
+    "modalPrice": 7100,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "groundnut",
+    "market": "Ahmedabad",
+    "date": "2026-10-03",
+    "minPrice": 6300,
+    "maxPrice": 6300,
+    "modalPrice": 6300,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "groundnut",
+    "market": "Rajkot",
+    "date": "2026-10-03",
+    "minPrice": 5670,
+    "maxPrice": 6930,
+    "modalPrice": 6300,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "groundnut",
+    "market": "Mehsana",
+    "date": "2026-10-03",
+    "minPrice": 5670,
+    "maxPrice": 6930,
+    "modalPrice": 6300,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "castor",
+    "market": "Ahmedabad",
+    "date": "2026-10-03",
+    "minPrice": 6200,
+    "maxPrice": 6200,
+    "modalPrice": 6200,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "castor",
+    "market": "Rajkot",
+    "date": "2026-10-03",
+    "minPrice": 5580,
+    "maxPrice": 6200,
+    "modalPrice": 6200,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "castor",
+    "market": "Mehsana",
+    "date": "2026-10-03",
+    "minPrice": 6200,
+    "maxPrice": 6200,
+    "modalPrice": 6200,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "bajra",
+    "market": "Ahmedabad",
+    "date": "2026-10-03",
+    "minPrice": 2340,
+    "maxPrice": 2600,
+    "modalPrice": 2600,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "bajra",
+    "market": "Rajkot",
+    "date": "2026-10-03",
+    "minPrice": 2340,
+    "maxPrice": 2860,
+    "modalPrice": 2600,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "bajra",
+    "market": "Mehsana",
+    "date": "2026-10-03",
+    "minPrice": 2600,
+    "maxPrice": 2600,
+    "modalPrice": 2600,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "wheat",
+    "market": "Ahmedabad",
+    "date": "2026-10-03",
+    "minPrice": 2205,
+    "maxPrice": 2695,
+    "modalPrice": 2450,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "wheat",
+    "market": "Rajkot",
+    "date": "2026-10-03",
+    "minPrice": 2450,
+    "maxPrice": 2450,
+    "modalPrice": 2450,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "wheat",
+    "market": "Mehsana",
+    "date": "2026-10-03",
+    "minPrice": 2450,
+    "maxPrice": 2450,
+    "modalPrice": 2450,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "cumin",
+    "market": "Ahmedabad",
+    "date": "2026-10-03",
+    "minPrice": 37800,
+    "maxPrice": 42000,
+    "modalPrice": 42000,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "cumin",
+    "market": "Rajkot",
+    "date": "2026-10-03",
+    "minPrice": 37800,
+    "maxPrice": 46200,
+    "modalPrice": 42000,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "cumin",
+    "market": "Mehsana",
+    "date": "2026-10-03",
+    "minPrice": 42000,
+    "maxPrice": 46200,
+    "modalPrice": 42000,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "mustard",
+    "market": "Ahmedabad",
+    "date": "2026-10-03",
+    "minPrice": 5040,
+    "maxPrice": 5600,
+    "modalPrice": 5600,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "mustard",
+    "market": "Rajkot",
+    "date": "2026-10-03",
+    "minPrice": 5600,
+    "maxPrice": 5600,
+    "modalPrice": 5600,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "mustard",
+    "market": "Mehsana",
+    "date": "2026-10-03",
+    "minPrice": 5600,
+    "maxPrice": 6160,
+    "modalPrice": 5600,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "chickpea",
+    "market": "Ahmedabad",
+    "date": "2026-10-03",
+    "minPrice": 5220,
+    "maxPrice": 5800,
+    "modalPrice": 5800,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "chickpea",
+    "market": "Rajkot",
+    "date": "2026-10-03",
+    "minPrice": 5220,
+    "maxPrice": 6380,
+    "modalPrice": 5800,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "chickpea",
+    "market": "Mehsana",
+    "date": "2026-10-03",
+    "minPrice": 5800,
+    "maxPrice": 5800,
+    "modalPrice": 5800,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "maize",
+    "market": "Ahmedabad",
+    "date": "2026-10-03",
+    "minPrice": 1980,
+    "maxPrice": 2420,
+    "modalPrice": 2200,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "maize",
+    "market": "Rajkot",
+    "date": "2026-10-03",
+    "minPrice": 1980,
+    "maxPrice": 2420,
+    "modalPrice": 2200,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "maize",
+    "market": "Mehsana",
+    "date": "2026-10-03",
+    "minPrice": 2200,
+    "maxPrice": 2200,
+    "modalPrice": 2200,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "rice",
+    "market": "Ahmedabad",
+    "date": "2026-10-03",
+    "minPrice": 2070,
+    "maxPrice": 2530,
+    "modalPrice": 2300,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "rice",
+    "market": "Rajkot",
+    "date": "2026-10-03",
+    "minPrice": 2300,
+    "maxPrice": 2530,
+    "modalPrice": 2300,
+    "unit": "INR/quintal"
+  },
+  {
+    "crop": "rice",
+    "market": "Mehsana",
+    "date": "2026-10-03",
+    "minPrice": 2300,
+    "maxPrice": 2530,
+    "modalPrice": 2300,
+    "unit": "INR/quintal"
+  }
+]
