@@ -6,10 +6,10 @@ const ts = { timestamps: true };
 
 /* ── User ──────────────────────────────────────────────────────── */
 const UserSchema = new Schema({
-  phone:        { type: String, unique: true, sparse: true },
+  phone:        { type: String },
   name:         { type: String, default: 'Farmer' },
   role:         { type: String, enum: ['farmer', 'agronomist', 'admin'], default: 'farmer' },
-  email:        { type: String, sparse: true },          // admin only
+  email:        { type: String },          // admin only
   passwordHash: { type: String },                        // admin only
   language:     { type: String, default: 'en' },
   location:     { type: String, default: 'Ahmedabad' },  // legacy field kept
@@ -30,8 +30,8 @@ const UserSchema = new Schema({
   // legacy password kept for backward compat during migration
   password:      { type: String, select: false },
 }, ts);
-UserSchema.index({ phone: 1 }, { unique: true, sparse: true });
-UserSchema.index({ email: 1 }, { unique: true, sparse: true });
+UserSchema.index({ phone: 1 }, { unique: true, sparse: true, background: true });
+UserSchema.index({ email: 1 }, { unique: true, sparse: true, background: true });
 
 /* ── OTP ───────────────────────────────────────────────────────── */
 const OtpSchema = new Schema({
@@ -83,7 +83,7 @@ const CropStageSchema = new Schema({
 }, { _id: false });
 
 const CropSchema = new Schema({
-  key:     { type: String, required: true, unique: true },
+  key:     { type: String, required: true },
   names:   { en: String, hi: String, gu: String },
   season:  String,
   stages:  [CropStageSchema],
@@ -132,7 +132,7 @@ DiarySchema.index({ fieldCropId: 1 });
 
 /* ── WeatherCache ──────────────────────────────────────────────── */
 const WeatherCacheSchema = new Schema({
-  locationKey: { type: String, required: true, unique: true }, // "lat,lon"
+  locationKey: { type: String, required: true }, // "lat,lon"
   payload:     Schema.Types.Mixed,
   fetchedAt:   Date,
   expiresAt:   Date,
@@ -161,7 +161,7 @@ AdvisorySchema.index({ city: 1, date: 1 });
 
 /* ── Rule ──────────────────────────────────────────────────────── */
 const RuleSchema = new Schema({
-  id:                { type: String, required: true, unique: true },
+  id:                { type: String, required: true },
   crops:             [String],
   stages:            [String],
   conditions:        Schema.Types.Mixed,

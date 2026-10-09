@@ -7,9 +7,11 @@ export default function MobileNav({ activePage, setActivePage }) {
     { id: 'dashboard', label: t.dashboard, icon: '📊' },
     { id: 'weather', label: t.weather, icon: '🌦️' },
     { id: 'crops', label: t.crops, icon: '🌱' },
-    { id: 'irrigation', label: t.irrigation, icon: '💧' },
     { id: 'market', label: t.market, icon: '📈' },
     { id: 'alerts', label: t.alerts, icon: '🔔' },
+    { id: 'assistant', label: t.assistant, icon: '🎙️' },
+    { id: 'expert', label: t.expert, icon: '👨‍🌾' },
+    { id: 'profile', label: t.profile, icon: '👤' },
   ];
 
   return (

@@ -8,6 +8,7 @@ import Header from './components/common/Header';
 import Sidebar from './components/common/Sidebar';
 import MobileNav from './components/common/MobileNav';
 import VoiceAssistantModal from './components/common/VoiceAssistantModal';
+import SplashScreen from './components/auth/SplashScreen';
 
 import LandingPage from './components/landing/LandingPage';
 import SolutionsPage from './components/public/SolutionsPage';
@@ -28,6 +29,11 @@ import CropRiskPage from './components/risk/CropRiskPage';
 import MarketIntelligencePage from './components/market/MarketIntelligencePage';
 import WeatherAnalyticsPage from './components/analytics/WeatherAnalyticsPage';
 import AlertCenterPage from './components/alerts/AlertCenterPage';
+import AssistantPage from './components/assistant/AssistantPage';
+import ExpertPage from './components/expert/ExpertPage';
+import ProfilePage from './components/profile/ProfilePage';
+
+const PUBLIC_PAGES = ['landing', 'solutions', 'insights', 'about', 'login', 'signup'];
 
 function MainApp() {
   const { user } = useAuth();
@@ -36,23 +42,28 @@ function MainApp() {
   const [weather, setWeather] = useState(null);
   const [advisories, setAdvisories] = useState([]);
   const [alerts, setAlerts] = useState([]);
+  const [showSplash, setShowSplash] = useState(true);
 
   // Modals
   const [showVoice, setShowVoice] = useState(false);
   const [showForgotPassword, setShowForgotPassword] = useState(false);
   const [showOnboarding, setShowOnboarding] = useState(false);
 
-  // Define public pages vs portal pages
-  const isPublicPage = ['landing', 'solutions', 'insights', 'about', 'login', 'signup'].includes(activePage);
+  const isPublicPage = PUBLIC_PAGES.includes(activePage);
 
-  // Sync city with user profile
+  // If user logs in, jump to dashboard
   useEffect(() => {
-    if (user?.location) {
-      setCity(user.location);
+    if (user && isPublicPage && activePage !== 'landing') {
+      setActivePage('dashboard');
     }
   }, [user]);
 
-  // Fetch telemetry
+  // Sync city with user profile
+  useEffect(() => {
+    if (user?.location) setCity(user.location);
+  }, [user]);
+
+  // Fetch weather + advisory data
   useEffect(() => {
     get(`/weather/${city}`)
       .then(setWeather)
@@ -65,128 +76,152 @@ function MainApp() {
       .catch(() => {});
   }, [city]);
 
+  const navigateTo = (page) => setActivePage(page);
+
+  const handleLoginSuccess = (isNew) => {
+    if (isNew) {
+      setShowOnboarding(true);
+    } else {
+      setActivePage('dashboard');
+    }
+  };
+
   return (
-    <div className="min-vh-100 d-flex flex-column bg-ivory text-dark">
-      {/* PUBLIC WEBSITE LAYOUT */}
-      {isPublicPage ? (
-        <>
-          <PublicNavbar
-            activePage={activePage}
-            setActivePage={setActivePage}
-            onOpenVoice={() => setShowVoice(true)}
-          />
-          <main className="flex-grow-1">
-            {activePage === 'landing' && (
-              <LandingPage
-                onGetStarted={() => setActivePage(user ? 'dashboard' : 'signup')}
-                onExplore={() => setActivePage('dashboard')}
-                onOpenVoice={() => setShowVoice(true)}
-              />
-            )}
+    <>
+      {/* Splash – shown once on first load */}
+      {showSplash && <SplashScreen onDone={() => setShowSplash(false)} />}
 
-            {activePage === 'solutions' && (
-              <SolutionsPage onGetStarted={() => setActivePage(user ? 'dashboard' : 'signup')} />
-            )}
-
-            {activePage === 'insights' && <InsightsPage />}
-
-            {activePage === 'about' && <AboutPage />}
-
-            {activePage === 'login' && (
-              <LoginPage
-                onSwitchToSignup={() => setActivePage('signup')}
-                onForgotPassword={() => setShowForgotPassword(true)}
-                onSuccess={() => setActivePage('dashboard')}
-              />
-            )}
-
-            {activePage === 'signup' && (
-              <SignupPage
-                onSwitchToLogin={() => setActivePage('login')}
-                onSuccess={() => setShowOnboarding(true)}
-              />
-            )}
-          </main>
-        </>
-      ) : (
-        /* AUTHENTICATED FARMER PORTAL LAYOUT */
-        <>
-          <Header
-            currentCity={city}
-            onCityChange={setCity}
-            onOpenVoice={() => setShowVoice(true)}
-            onOpenAuth={() => setActivePage('login')}
-            activePage={activePage}
-            setActivePage={setActivePage}
-          />
-          <MobileNav activePage={activePage} setActivePage={setActivePage} />
-
-          <div className="d-flex flex-grow-1">
-            <Sidebar activePage={activePage} setActivePage={setActivePage} />
-
-            <main className="flex-grow-1 p-3 p-md-4 overflow-x-hidden" style={{ maxWidth: '1280px', margin: '0 auto' }}>
-              {activePage === 'dashboard' && (
-                <DashboardPage
-                  currentCity={city}
-                  weather={weather}
-                  advisories={advisories}
-                  alerts={alerts}
-                  onNavigate={setActivePage}
+      <div className="min-vh-100 d-flex flex-column bg-ivory text-dark">
+        {/* PUBLIC WEBSITE LAYOUT */}
+        {isPublicPage ? (
+          <>
+            <PublicNavbar
+              activePage={activePage}
+              setActivePage={setActivePage}
+              onOpenVoice={() => setShowVoice(true)}
+            />
+            <main className="flex-grow-1">
+              {activePage === 'landing' && (
+                <LandingPage
+                  onGetStarted={() => setActivePage(user ? 'dashboard' : 'signup')}
+                  onExplore={() => setActivePage('dashboard')}
+                  onOpenVoice={() => setShowVoice(true)}
                 />
               )}
-
-              {activePage === 'weather' && <WeatherPage weather={weather} currentCity={city} />}
-
-              {activePage === 'myFarm' && (
-                <MyFarmPage
-                  currentCity={city}
-                  weather={weather}
-                  alerts={alerts}
-                  onOpenOnboarding={() => setShowOnboarding(true)}
+              {activePage === 'solutions' && (
+                <SolutionsPage onGetStarted={() => setActivePage(user ? 'dashboard' : 'signup')} />
+              )}
+              {activePage === 'insights' && <InsightsPage />}
+              {activePage === 'about' && <AboutPage />}
+              {activePage === 'login' && (
+                <LoginPage
+                  onSwitchToSignup={() => setActivePage('signup')}
+                  onSuccess={handleLoginSuccess}
                 />
               )}
-
-              {activePage === 'crops' && <CropIntelligencePage weather={weather} />}
-
-              {activePage === 'irrigation' && <SmartIrrigationPage weather={weather} currentCity={city} />}
-
-              {activePage === 'risk' && <CropRiskPage weather={weather} currentCity={city} />}
-
-              {activePage === 'market' && <MarketIntelligencePage />}
-
-              {activePage === 'analytics' && <WeatherAnalyticsPage currentCity={city} />}
-
-              {activePage === 'alerts' && (
-                <AlertCenterPage alerts={alerts} advisories={advisories} currentCity={city} />
+              {activePage === 'signup' && (
+                <SignupPage
+                  onSwitchToLogin={() => setActivePage('login')}
+                  onSuccess={() => setShowOnboarding(true)}
+                />
               )}
             </main>
-          </div>
-        </>
-      )}
+          </>
+        ) : (
+          /* AUTHENTICATED FARMER PORTAL LAYOUT */
+          <>
+            <Header
+              currentCity={city}
+              onCityChange={setCity}
+              onOpenVoice={() => setShowVoice(true)}
+              onOpenAuth={() => setActivePage('login')}
+              activePage={activePage}
+              setActivePage={setActivePage}
+            />
+            <MobileNav activePage={activePage} setActivePage={setActivePage} />
 
-      {/* Floating Modals */}
-      {showVoice && (
-        <VoiceAssistantModal
-          currentCity={city}
-          onCityChange={setCity}
-          onClose={() => setShowVoice(false)}
-        />
-      )}
+            <div className="d-flex flex-grow-1">
+              <Sidebar activePage={activePage} setActivePage={setActivePage} />
 
-      {showForgotPassword && (
-        <ForgotPasswordModal onClose={() => setShowForgotPassword(false)} />
-      )}
+              <main
+                className="flex-grow-1 p-3 p-md-4 overflow-x-hidden"
+                style={{ maxWidth: '1280px', margin: '0 auto', width: '100%' }}
+              >
+                {activePage === 'dashboard' && (
+                  <DashboardPage
+                    currentCity={city}
+                    weather={weather}
+                    advisories={advisories}
+                    alerts={alerts}
+                    onNavigate={navigateTo}
+                  />
+                )}
+                {activePage === 'weather' && (
+                  <WeatherPage weather={weather} currentCity={city} />
+                )}
+                {activePage === 'myFarm' && (
+                  <MyFarmPage
+                    currentCity={city}
+                    weather={weather}
+                    alerts={alerts}
+                    onOpenOnboarding={() => setShowOnboarding(true)}
+                  />
+                )}
+                {activePage === 'crops' && (
+                  <CropIntelligencePage weather={weather} />
+                )}
+                {activePage === 'irrigation' && (
+                  <SmartIrrigationPage weather={weather} currentCity={city} />
+                )}
+                {activePage === 'risk' && (
+                  <CropRiskPage weather={weather} currentCity={city} />
+                )}
+                {activePage === 'market' && <MarketIntelligencePage />}
+                {activePage === 'analytics' && (
+                  <WeatherAnalyticsPage currentCity={city} />
+                )}
+                {activePage === 'alerts' && (
+                  <AlertCenterPage alerts={alerts} advisories={advisories} currentCity={city} />
+                )}
+                {activePage === 'assistant' && (
+                  <AssistantPage currentCity={city} />
+                )}
+                {activePage === 'expert' && <ExpertPage />}
+                {activePage === 'profile' && <ProfilePage />}
+                {activePage === 'landing' && (
+                  <LandingPage
+                    onGetStarted={() => setActivePage('dashboard')}
+                    onExplore={() => setActivePage('dashboard')}
+                    onOpenVoice={() => setShowVoice(true)}
+                  />
+                )}
+              </main>
+            </div>
+          </>
+        )}
 
-      {showOnboarding && (
-        <FarmerOnboardingModal
-          onClose={() => setShowOnboarding(false)}
-          onComplete={() => {
-            setShowOnboarding(false);
-            setActivePage('dashboard');
-          }}
-        />
-      )}
-    </div>
+        {/* Floating Modals */}
+        {showVoice && (
+          <VoiceAssistantModal
+            currentCity={city}
+            onCityChange={setCity}
+            onClose={() => setShowVoice(false)}
+          />
+        )}
+        {showForgotPassword && (
+          <ForgotPasswordModal onClose={() => setShowForgotPassword(false)} />
+        )}
+        {showOnboarding && (
+          <FarmerOnboardingModal
+            onClose={() => setShowOnboarding(false)}
+            onComplete={() => {
+              setShowOnboarding(false);
+              setActivePage('dashboard');
+            }}
+          />
+        )}
+      </div>
+    </>
   );
 }
 
