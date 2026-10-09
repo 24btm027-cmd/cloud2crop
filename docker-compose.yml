@@ -1,0 +1,30 @@
+version: '3.9'
+
+services:
+  mongo:
+    image: mongo:7
+    container_name: cloud2crop-mongo
+    restart: unless-stopped
+    environment:
+      MONGO_INITDB_DATABASE: cloud2crop
+    ports:
+      - '27017:27017'
+    volumes:
+      - mongo_data:/data/db
+
+  # Optional: Mongo Express UI (remove if not needed)
+  mongo-express:
+    image: mongo-express:latest
+    container_name: cloud2crop-mongo-ui
+    restart: unless-stopped
+    environment:
+      ME_CONFIG_MONGODB_URL: mongodb://mongo:27017/
+      ME_CONFIG_BASICAUTH_USERNAME: admin
+      ME_CONFIG_BASICAUTH_PASSWORD: pass
+    ports:
+      - '8081:8081'
+    depends_on:
+      - mongo
+
+volumes:
+  mongo_data:
