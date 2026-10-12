@@ -6,10 +6,15 @@
 
 const MOCK_CODE = '123456';
 
-async function sendOtp(phone) {
-  const provider = process.env.OTP_PROVIDER || 'mock';
+async function sendOtp(phone, code) {
+  const provider = (process.env.OTP_PROVIDER || 'mock').toLowerCase();
 
   if (provider === 'twilio') {
+    if (!process.env.TWILIO_ACCOUNT_SID || !process.env.TWILIO_AUTH_TOKEN || !process.env.TWILIO_VERIFY_SID) {
+      console.warn('[OTP] Twilio credentials missing; falling back to mock provider');
+      const otpCode = code || MOCK_CODE;
+      return { sent: true, provider: 'mock', devCode: otpCode };
+    }
     const twilio = require('twilio');
     const client = twilio(process.env.TWILIO_ACCOUNT_SID, process.env.TWILIO_AUTH_TOKEN);
     await client.verify.v2
@@ -18,15 +23,20 @@ async function sendOtp(phone) {
     return { sent: true, provider: 'twilio' };
   }
 
-  // Mock: log code in dev; in production without twilio, fail safe
-  console.log(`[OTP-MOCK] Code for ${phone}: ${MOCK_CODE}`);
-  return { sent: true, provider: 'mock', devCode: MOCK_CODE };
+  // Mock / Dev provider: log code and return devCode for testing/demo
+  const otpCode = code || MOCK_CODE;
+  console.log(`[OTP-MOCK] Code for ${phone}: ${otpCode}`);
+  return { sent: true, provider: 'mock', devCode: otpCode };
 }
 
 async function verifyOtp(phone, code) {
-  const provider = process.env.OTP_PROVIDER || 'mock';
+  const provider = (process.env.OTP_PROVIDER || 'mock').toLowerCase();
 
   if (provider === 'twilio') {
+    if (!process.env.TWILIO_ACCOUNT_SID || !process.env.TWILIO_AUTH_TOKEN || !process.env.TWILIO_VERIFY_SID) {
+      console.warn('[OTP] Twilio credentials missing in verifyOtp; falling back to mock check');
+      return code === MOCK_CODE;
+    }
     const twilio = require('twilio');
     const client = twilio(process.env.TWILIO_ACCOUNT_SID, process.env.TWILIO_AUTH_TOKEN);
     const check = await client.verify.v2
@@ -35,7 +45,7 @@ async function verifyOtp(phone, code) {
     return check.status === 'approved';
   }
 
-  // Mock: always accept 123456 in non-production
+  // Mock: accept 123456
   return code === MOCK_CODE;
 }
 

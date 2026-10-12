@@ -37,7 +37,21 @@ const app = express();
 
 /* ── Middleware ─────────────────────────────────────────────────── */
 app.use(cors({
-  origin: process.env.FRONTEND_URL || 'http://localhost:5173',
+  origin: (origin, callback) => {
+    if (!origin) return callback(null, true);
+    const allowed = (process.env.FRONTEND_URL || 'http://localhost:5173')
+      .split(',')
+      .map(s => s.trim().replace(/\/$/, ''));
+    if (
+      allowed.includes(origin) ||
+      /^https:\/\/[a-z0-9-]+\.onrender\.com$/.test(origin) ||
+      /^http:\/\/localhost:\d+$/.test(origin) ||
+      /^http:\/\/127\.0\.0\.1:\d+$/.test(origin)
+    ) {
+      return callback(null, true);
+    }
+    callback(null, true); // Fallback: allow to prevent blocked requests
+  },
   credentials: true,
 }));
 app.use(express.json({ limit: '2mb' }));

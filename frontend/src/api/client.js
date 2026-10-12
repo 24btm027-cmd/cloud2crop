@@ -23,15 +23,36 @@ export const api = async (endpoint, options = {}) => {
     credentials: 'include', // send httpOnly cookies
   });
 
+  const contentType = response.headers.get('content-type') || '';
+  const isJson = contentType.includes('application/json');
+
   if (!response.ok) {
-    const errorData = await response.json().catch(() => ({}));
+    let errorData = {};
+    if (isJson) {
+      errorData = await response.json().catch(() => ({}));
+    } else {
+      const text = await response.text().catch(() => '');
+      if (text) errorData = { message: text };
+    }
     const error = new Error(errorData.message || `API Error: ${response.status}`);
     error.status = response.status;
     error.data = errorData;
     throw error;
   }
 
-  return response.json();
+  if (response.status === 204) return null;
+  if (!isJson) {
+    const text = await response.text().catch(() => '');
+    return text ? { text } : {};
+  }
+
+  const rawText = await response.text();
+  if (!rawText || !rawText.trim()) return {};
+  try {
+    return JSON.parse(rawText);
+  } catch (e) {
+    throw new Error('Invalid JSON response received from server');
+  }
 };
 
 export const get = (endpoint, opts) => api(endpoint, { method: 'GET', ...opts });
